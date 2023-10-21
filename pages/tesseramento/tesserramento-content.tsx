@@ -10,6 +10,17 @@ export default function TesseramentoContent() {
           obbligatoria. L’iscrizione può essere effettuata direttamente in sede
           o on line tramite bonifico bancario previa richiesta.
         </p>
+        {/* TODO: add document to download */}
+        <p className="mt-1 text-base leading-7 text-slate-500">
+          Clicca qui per scaricare il modulo di Iscrizione Adulti: <a href="/assets/ModuloIscrizioneAdulti.pdf" className="text-blue-600 hover:underline" target="_blank">Tesseramento Maggiorenni</a>
+        </p>
+        {/* TODO: add document to download */}
+        <p className="mt-1 text-base leading-7 text-slate-500">
+          Clicca qui per scaricare il modulo di Iscrizione Minori: <a href="/assets/ModuloIscrizioneMinori.pdf" className="text-blue-600 hover:underline" target="_blank">Tesseramento Minorenni</a>
+        </p>
+        <p className="mt-1 text-base leading-7 text-slate-500">
+        Per le condizioni di polizza potete visitare il sito: <a href="http://www.scisicuro.it/" className="text-teal-600 hover:underline visited:text-purple-600" target="_blank">www.scisicuro.it</a>
+        </p>
       </div>
       <div className="mt-10">
         <h2 className="mt-2 text-lg font-medium text-slate-900">

@@ -5,7 +5,7 @@ import Navbar from "../../components/navbar";
 import Container from "../../components/container";
 import TesseramentoContent from "./tesserramento-content";
 import GaranzieMassimali from "./garanzie-massimali";
-import { INFORTUNI } from "./table-data";
+import { ASSISTENZA, INFORTUNI, RESPONSABILITA_CIVILE } from "./table-data";
 
 export default function Tesseramento() {
   return (
@@ -19,7 +19,7 @@ export default function Tesseramento() {
           <div className="lg:px-8">
             <TesseramentoContent />
             <hr />
-            <GaranzieMassimali infortuni={INFORTUNI} assistenza={[]} respCivileTerzi={[]} />
+            <GaranzieMassimali infortuni={INFORTUNI} assistenza={ASSISTENZA} respCivileTerzi={RESPONSABILITA_CIVILE} />
           </div>
         </div>
       </Container>
