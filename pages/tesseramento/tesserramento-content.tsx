@@ -1,7 +1,7 @@
 export default function TesseramentoContent() {
   return (
     <div className="mx-auto px-4 mb-20">
-      <h1 className="my-4 text-2xl">Tesseramento</h1>
+      <h1 className="my-4 text-3xl">Tesseramento</h1>
       <div>
         <p className="mt-1 text-base leading-7 text-slate-700">
           Per partecipare alle nostre iniziative è necessario sottoscrivere la
