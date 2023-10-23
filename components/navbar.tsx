@@ -3,7 +3,7 @@ import Link from "next/link";
 const Navbar = () => {
   return (
     <div className="w-full sticky top-0 z-50 text-gray-700 bg-white" style={{ zIndex: 10000 }}>
-      <div className="flex flex-col max-w-screen-xl px-2 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
+      <div className="flex flex-col px-2 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
         <div className="p-4 flex flex-row items-center justify-between">
           <Link
             href="/"

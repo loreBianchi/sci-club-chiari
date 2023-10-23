@@ -1,7 +1,6 @@
 import Head from "next/head";
 import Layout from "../../components/layout";
 import { SITE_NAME } from "../../lib/constants";
-import Navbar from "../../components/navbar";
 import Container from "../../components/container";
 import { useMemo } from "react";
 import dynamic from "next/dynamic";
@@ -23,7 +22,6 @@ export default function Contatti() {
       <Head>
         <title>{`${SITE_NAME} - Contatti`}</title>
       </Head>
-      <Navbar />
       <Container>
         <div className="py-10 sm:py-12">
           <div className="lg:px-8">

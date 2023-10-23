@@ -21,7 +21,6 @@ export default function Index({ allPosts }: Props) {
         <Head>
           <title>{`${SITE_NAME} - Home Page`}</title>
         </Head>
-        <Navbar />
         <Container>
           {heroPost && (
             <HeroPost
