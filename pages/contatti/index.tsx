@@ -26,7 +26,7 @@ export default function Contatti() {
         <div className="py-10 sm:py-12">
           <div className="lg:px-8">
             <div className="mx-auto px-4 mb-20">
-              <h1 className="mt-4 text-3xl">Contati</h1>
+              <h1 className="mt-4 text-3xl">Contatti</h1>
               <table className="my-20 table-auto">
                 <tbody>
                   <tr>

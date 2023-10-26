@@ -6,7 +6,7 @@ export default function SciClubContent() {
           Statuto
         </h2>
         <p className="mt-1 text-base leading-7 text-slate-700">
-          Scarica lo statuto del nostro Sci Club <a href="/assets/atto-costitutivo-Sci-Club-Chiari-Asd.pdf" className="text-blue-600 hover:underline" target="_blank">Statuto</a>
+          Scarica lo statuto del nostro Sci Club <a href="/assets/docs/atto-costitutivo-Sci-Club-Chiari-Asd.pdf" className="text-blue-600 hover:underline" target="_blank">Statuto</a>
         </p>
       </div>
       <div className="mt-5 mb-20">
@@ -14,7 +14,7 @@ export default function SciClubContent() {
           Regolamento
         </h2>
         <p className="mt-1 text-base leading-7 text-slate-700">
-          Clicca qui per scaricare il regolamento <a href="/assets/Regolamento.pdf" className="text-blue-600 hover:underline" target="_blank">Regolamento</a>
+          Clicca qui per scaricare il regolamento <a href="/assets/docs/Regolamento.pdf" className="text-blue-600 hover:underline" target="_blank">Regolamento</a>
         </p>
       </div>
       <div className="mt-5 mb-20">
