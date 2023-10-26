@@ -1,27 +1,23 @@
 ---
-title: 'Prima neve'
-excerpt: '8 Dicembre PRIMA NEVE!! Gita in giornata a Corvatsch (Sankt Moritz) RISERVATA AI SOCI SCC.'
-coverImage: '/assets/attivita/cover-1.jpg'
-date: '2023-12-08T05:35:07.322Z'
+title: "Weekend sul ghiacciaio dello Stubai (AT)"
+excerpt: "6-7 Aprile weekend sul ghiacciaio dello Stubai (AT)"
+coverImage: '/assets/attivita/cover-5.jpg'
+date: '2024-04-06T05:35:07.322Z'
 ogImage:
-  url: '/assets/attivita/cover-1.jpg'
+  url: '/assets/attivita/cover-5.jpg'
 ---
 
-8 Dicembre PRIMA NEVE!! Gita in giornata a Corvatsch (Sankt Moritz) RISERVATA AI SOCI SCC.
+9-10 Marzo weekend sul ghiacciaio dello Stubai (AT)
 
 ## Quote
 
-70€ PULLMAN + GIORNALIERO SKI RAMA ADULTI.   
-60€ PULLMAN + GIORNALIERO JUNIOR (nati dal 30 aprile 2006 al 30 aprile 2014).   
-30€ PULLMAN + GIORNALIERO BAMBINI(nati dal 30 aprile 2014).   
-25€ SOLO PULLMAN.   
+Prezzo: 120€ a persona, viaggio in pullman + 1g. hotel m/p.
 
 5€ di cauzione per ogni Skipass.
 
 I Minorenni possono partecipare unicamente accompagnati da un maggiorenne che ne assume totale
 responsabilità. Iscrizioni aperte dall’11 Novembre.
  
-
 Le iscrizioni sono ritenute valide al saldo della quota gita.
 
 Informazioni 3663005802
@@ -35,4 +31,3 @@ Informazioni 3663005802
 - In tutti i week-end organizzati dallo Sci Club Chiari è offerta ai Soci l’opportunità di acquistare gli ski-pass ai vantaggiosi prezzi riservati ai gruppi
 - Le iscrizioni ai week-end della Stagione Invernale 2023/2024 si possono effettuare in sede a partire da giovedì 11 Novembre 2023. 
 - L’iscrizione viene accettata esclusivamente previo il pagamento dell’intera quota prevista per il week-end; per politiche interne non vengono accettate prenotazioni e/o caparre
-

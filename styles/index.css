@@ -6,3 +6,10 @@
   list-style: disc;
   margin-left: 1.5rem;
 }
+
+.home-title-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
