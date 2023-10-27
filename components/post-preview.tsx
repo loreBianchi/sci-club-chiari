@@ -11,6 +11,7 @@ type Props = {
   excerpt: string
   author?: Author
   slug: string
+  directory?: string
 }
 
 const PostPreview = ({
@@ -20,6 +21,7 @@ const PostPreview = ({
   excerpt,
   author,
   slug,
+  directory = 'attivita',
 }: Props) => {
   return (
     <div>
@@ -28,8 +30,8 @@ const PostPreview = ({
       </div>
       <h3 className="text-3xl mb-3 leading-snug">
         <Link
-          as={`/attivita/${slug}`}
-          href="/attivita/[slug]"
+          as={`/${directory}/${slug}`}
+          href={`/${directory}/[slug]`}
           className="hover:underline"
         >
           {title}

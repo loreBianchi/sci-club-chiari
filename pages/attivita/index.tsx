@@ -2,8 +2,8 @@ import Head from "next/head";
 import Layout from "../../components/layout";
 import { SITE_NAME } from "../../lib/constants";
 import Container from "../../components/container";
-import AttivitaPreview from "./attivita-preview";
 import { getAllActivities } from "../../lib/api";
+import PostPreview from "../../components/post-preview";
 
 export default function Attivita({ allActivities: activities }) {
   return (
@@ -18,7 +18,7 @@ export default function Attivita({ allActivities: activities }) {
               <h1 className="mt-4 text-3xl">Attività</h1>
               <div className="grid grid-cols-1 md:grid-cols-2 md:gap-x-16 lg:gap-x-32 gap-y-20 md:gap-y-32 mb-32 mt-20">
                 {activities.map((a) => (
-                  <AttivitaPreview
+                  <PostPreview
                     key={a.slug}
                     title={a.title}
                     coverImage={a.coverImage}
