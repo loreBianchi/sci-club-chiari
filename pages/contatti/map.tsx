@@ -1,4 +1,5 @@
 import { MapContainer, Marker, TileLayer, Popup } from "react-leaflet"
+import L from "leaflet";
 import "leaflet/dist/leaflet.css"
 import "leaflet-defaulticon-compatibility"
 import "leaflet-defaulticon-compatibility/dist/leaflet-defaulticon-compatibility.css"
