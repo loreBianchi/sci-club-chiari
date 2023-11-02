@@ -2,19 +2,11 @@ import Head from "next/head";
 import Layout from "../../components/layout";
 import { SITE_NAME } from "../../lib/constants";
 import Container from "../../components/container";
-import { useMemo } from "react";
 import dynamic from "next/dynamic";
 
-export default function Contatti() {
-  const Map = useMemo(
-    () =>
-      dynamic(() => import("./map"), {
-        loading: () => <p>A map is loading</p>,
-        ssr: false,
-      }),
-    []
-  );
+const Map = dynamic(() => import("./map"), { ssr: false });
 
+export default function Contatti() {
   const position: [number, number] = [45.5392, 9.9278];
   
   return (
