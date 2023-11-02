@@ -11,6 +11,10 @@ interface MapProps {
 export default function Map(props: MapProps) {
   const { position, zoom } = props
 
+  if (typeof window === "undefined") {
+    return <div />
+  }
+
   return <MapContainer center={position} zoom={zoom} scrollWheelZoom={false} style={{ height: 500, width: '100%'}}>
     <TileLayer
       attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
