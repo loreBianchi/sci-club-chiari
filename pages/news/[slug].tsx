@@ -10,7 +10,7 @@ import {
 } from "../../lib/api";
 import PostTitle from "../../components/post-title";
 import Head from "next/head";
-import { CMS_NAME } from "../../lib/constants";
+import { SITE_NAME } from "../../lib/constants";
 import markdownToHtml from "../../lib/markdownToHtml";
 import type AttivitaType from "../../interfaces/attivita";
 
@@ -20,7 +20,7 @@ type AttivitaPostProps = {
 
 export default function NewsPost({ attivita }: AttivitaPostProps) {
   const router = useRouter();
-  const title = `${attivita.title} | Next.js Blog Example with ${CMS_NAME}`;
+  const title = `${attivita.title} | ${SITE_NAME}`;
   if (!router.isFallback && !attivita?.slug) {
     return <ErrorPage statusCode={404} />;
   }

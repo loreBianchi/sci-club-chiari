@@ -1,5 +1,5 @@
 import Container from './container'
-import { FaFacebookSquare, FaInstagramSquare } from 'react-icons/fa';
+import { FaFacebookSquare, FaHeart, FaInstagramSquare } from 'react-icons/fa';
 
 const Footer = () => {
   return (
@@ -27,6 +27,9 @@ const Footer = () => {
           </div>
         </div>
       </Container>
+      <div className="flex lex-row justify-center items-center border-t border-blue-200 p-1 w-full text-sm">
+        Icons by <a className='underline ml-1' href='https://icons8.com/' target='blank'>Icons8</a> - Made with <FaHeart className='mx-1' /> by <a className='underline ml-1' href='https://lorenzo-bianchi.vercel.app/' target='blank'>Lorenzo Bianchi</a>
+      </div>
     </footer>
   )
 }
