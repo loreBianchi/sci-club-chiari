@@ -4,7 +4,7 @@ import { SITE_NAME } from "../../lib/constants";
 import Container from "../../components/container";
 import TesseramentoContent from "./tesserramento-content";
 import GaranzieMassimali from "./garanzie-massimali";
-import { ASSISTENZA, INFORTUNI, RESPONSABILITA_CIVILE } from "./table-data";
+import { ASSISTENZA, INFORTUNI, RESPONSABILITA_CIVILE } from "../../lib/table-data";
 
 export default function Tesseramento() {
   return (

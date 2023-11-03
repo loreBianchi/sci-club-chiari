@@ -7,7 +7,7 @@ import dynamic from "next/dynamic";
 
 export default function Contatti() {
   const Map = useMemo(
-    () =>
+    () => 
       dynamic(() => import("./map"), {
         loading: () => <p>A map is loading</p>,
         ssr: false,

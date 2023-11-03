@@ -1,4 +1,4 @@
-import { GaranziaMassimale } from "./models";
+import GaranziaMassimale from "../interfaces/garanzia-massimale";
 
 export const INFORTUNI: GaranziaMassimale[] = [
   { garanzia: "Caso Morte", massimale: "€ 50.000,00" },
