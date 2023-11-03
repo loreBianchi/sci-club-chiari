@@ -1,5 +1,5 @@
-import CoverImage from "../../components/cover-image"
-import DateFormatter from "../../components/date-formatter"
+import CoverImage from "./cover-image"
+import DateFormatter from "./date-formatter"
 
 type AttivitaHeaderProps = {
   title: string

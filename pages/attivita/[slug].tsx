@@ -13,7 +13,7 @@ import Head from "next/head";
 import { SITE_NAME } from "../../lib/constants";
 import markdownToHtml from "../../lib/markdownToHtml";
 import type AttivitaType from "../../interfaces/attivita";
-import AttivitaHeader from "./attivita-header";
+import AttivitaHeader from "../../components/attivita-header";
 
 type AttivitaPostProps = {
   attivita: AttivitaType;

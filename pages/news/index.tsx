@@ -3,7 +3,7 @@ import Layout from "../../components/layout";
 import { SITE_NAME } from "../../lib/constants";
 import Container from "../../components/container";
 import { getAllNews } from "../../lib/api";
-import NewsPreview from "./news-preview";
+import NewsPreview from "../../components/news-preview";
 
 export default function News({ allNews: news }) {  
   return (

@@ -1,4 +1,4 @@
-import GaranziaMassimale from "../../interfaces/garanzia-massimale";
+import GaranziaMassimale from "../interfaces/garanzia-massimale";
 
 interface GaranzieMassimaliProps {
   infortuni: GaranziaMassimale[];
