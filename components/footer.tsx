@@ -27,8 +27,12 @@ const Footer = () => {
           </div>
         </div>
       </Container>
-      <div className="flex lex-row justify-center items-center border-t border-blue-200 p-1 w-full text-sm">
-        Icons by <a className='underline ml-1' href='https://icons8.com/' target='blank'>Icons8</a> - Made with <FaHeart className='mx-1' /> by <a className='underline ml-1' href='https://lorenzo-bianchi.vercel.app/' target='blank'>Lorenzo Bianchi</a>
+      <div className="flex flex-col justify-center items-center border-t border-blue-200 p-2 w-full text-xs text-gray-400 bg-blue-100">
+        <div className='flex flex-row justify-center items-center'>          
+          Icons by <a className='underline ml-1' href='https://icons8.com/' target='blank'>Icons8</a> - 
+          Made with <FaHeart className='mx-1' /> by <a className='underline ml-1' href='https://lorenzo-bianchi.vercel.app/' target='blank'>Lorenzo Bianchi</a><br />
+        </div>
+        <div className='flex flex-row justify-center items-center'>© 2023 Sci Club Chiari</div>
       </div>
     </footer>
   )
