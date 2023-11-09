@@ -20,8 +20,8 @@ Tre domeniche sulla neve per approcciarsi alle nobili arti dello Sci e dello Sno
 [PASSO DELL'APRICA](https://www.apricaonline.com/it/montagna-inverno/sci)
 [SCUOLA SCI APRICA](https://www.apricasci.com)
 
-La quota di iscrizione per i minori di 16 anni è di 225€.
-La quota di iscrizione dai 16 anni in su è di 250€.
+La quota di iscrizione per i nati negli anni 2008-2015 è di 225€.
+La quota di iscrizione per i nati prima del 2008 è di 250€.
 
  
 Le iscrizioni sono ritenute valide al saldo della quota.
