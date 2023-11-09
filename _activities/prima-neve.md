@@ -1,6 +1,6 @@
 ---
 title: 'Prima neve'
-excerpt: '8 Dicembre PRIMA NEVE!! Gita in giornata a Corvatsch (Sankt Moritz) RISERVATA AI SOCI SCC.'
+excerpt: '8 Dicembre PRIMA NEVE!! Gita in giornata a Corvatsch (Sankt Moritz)'
 coverImage: '/assets/attivita/cover-1.jpg'
 date: '2023-12-08T05:35:07.322Z'
 ogImage:
