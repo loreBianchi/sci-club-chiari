@@ -2,7 +2,7 @@
 title: 'Scuola Sci 2024'
 excerpt: '14-21-28 Gennaio, scuola sci Aprica.'
 coverImage: '/assets/attivita/cover-3.jpg'
-date: '2023-12-05T05:35:07.322Z'
+date: '2024-01-14T05:35:07.322Z'
 ogImage:
   url: '/assets/attivita/cover-3.jpg'
 ---
