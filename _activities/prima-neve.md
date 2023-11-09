@@ -18,6 +18,7 @@ ISCRIZIONE RISERVATA AI TESSERATI
 50€ PULLMAN + GIORNALIERO BAMBINI(nati dal 30 aprile 2014).   
 30€ SOLO PULLMAN.   
 
+[COMPRENSORIO CORVATSCH](https://www.corvatsch-diavolezza.ch)
 
 I Minorenni possono partecipare unicamente accompagnati da un maggiorenne che ne assume totale
 responsabilità. Iscrizioni aperte dal 18 Novembre.
