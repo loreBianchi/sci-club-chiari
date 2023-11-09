@@ -38,11 +38,11 @@ const Navbar = () => {
             <Link className="md:mt-0 mt-3 px-3 py-2" href="/sci-club">
               Sci club
             </Link>
-            <Link className="md:mt-0 mt-3 px-3 py-2" href="/attivita">
-              Attività
-            </Link>
             <Link className="md:mt-0 mt-3 px-3 py-2" href="/tesseramento">
               Tesseramento
+            </Link>
+            <Link className="md:mt-0 mt-3 px-3 py-2" href="/attivita">
+              Attività
             </Link>
             <Link className="md:mt-0 mt-3 px-3 py-2" href="/news">
               News
@@ -63,11 +63,11 @@ const Navbar = () => {
             <Link className="px-3 py-2" href="/sci-club">
               Sci club
             </Link>
-            <Link className="px-3 py-2" href="/attivita">
-              Attività
-            </Link>
             <Link className="px-3 py-2" href="/tesseramento">
               Tesseramento
+            </Link>
+            <Link className="px-3 py-2" href="/attivita">
+              Attività
             </Link>
             <Link className="px-3 py-2" href="/news">
               News
