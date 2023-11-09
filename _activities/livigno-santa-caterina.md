@@ -11,14 +11,22 @@ ogImage:
 
 ## Quote
 
-Prezzo: 120€ a persona, viaggio in pullman + 1g. trattamento m/p.
+USCITA RISERVATA AI TESSERATI
 
-5€ di cauzione per ogni Skipass.
+La quota di iscrizione è di 120€ e comprende:
+Pullman a/r e per trasferimenti in loco per raggiungere le località sciistiche;
+Albergo in trattamento di mezza pensione in camera doppia/tripla c/o Hotel Genzianella S. Caterina Valfurva (affacciato sulla Pista Deborah Compagnoni).
+
+[Hotel Genzianella](https://www.hotelgenzianella.com)
 
 I Minorenni possono partecipare unicamente accompagnati da un maggiorenne che ne assume totale
-responsabilità. Iscrizioni aperte dall’11 Novembre.
+responsabilità. Iscrizioni aperte dal 18 Novembre.
  
 Le iscrizioni sono ritenute valide al saldo della quota gita.
+
+Informazioni 3663005802
+
+[CLICCA QUI PER ISCRIVERTI](https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=5ac3c175-9ba5-402d-b6f1-6c4a0d33ab97)
 
 Informazioni 3663005802
 
