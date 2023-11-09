@@ -7,7 +7,7 @@ ogImage:
   url: '/assets/attivita/cover-2.jpg'
 ---
 
-Week-end sulle nevi della Valle d'Aosta
+10-11 Febbraio 2024 Week-end sulle nevi della Valle d'Aosta
 
 ## Quote
 
