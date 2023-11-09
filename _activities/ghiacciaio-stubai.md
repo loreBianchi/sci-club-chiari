@@ -7,20 +7,28 @@ ogImage:
   url: '/assets/attivita/cover-5.jpg'
 ---
 
-9-10 Marzo weekend sul ghiacciaio dello Stubai (AT)
+6-7 Aprile sul ghiacciaio dello Stubai (AT)
 
 ## Quote
 
-Prezzo: 120€ a persona, viaggio in pullman + 1g. hotel m/p.
 
-5€ di cauzione per ogni Skipass.
+USCITA RISERVATA AI TESSERATI
+
+La quota di iscrizione è di 1200€ e comprende:
+Pullman a/r e per trasferimenti in loco per raggiungere le località sciistiche;
+Albergo in trattamento di mezza pensione in camera doppia/tripla c/o AlpHotel Innsbruck.
+
+[AlpHotel Innsbruck](https://www.alphotel.com/en/)
 
 I Minorenni possono partecipare unicamente accompagnati da un maggiorenne che ne assume totale
-responsabilità. Iscrizioni aperte dall’11 Novembre.
+responsabilità. Iscrizioni aperte dal 18 Novembre.
  
 Le iscrizioni sono ritenute valide al saldo della quota gita.
 
 Informazioni 3663005802
+
+[CLICCA QUI PER ISCRIVERTI](https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=921bcdb2-6788-4b07-96bd-94a262c43ba6)
+
 
 ## Informazioni utili
 
