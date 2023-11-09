@@ -1,6 +1,6 @@
 ---
 title: "Corso di Sci Snowboard Passo Aprica"
-excerpt: "La sede apre al pubblico venerdì 11/11/2023 alle 21.00."
+excerpt: "La sede apre al pubblico sabato 18/11/2023 alle 19.00."
 date: '2023-11-10T05:35:07.322Z'
 ---
 
