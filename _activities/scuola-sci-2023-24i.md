@@ -12,12 +12,14 @@ ogImage:
 #### QUOTE:
 
 ISCRIZIONE RISERVATA AI TESSERATI
+
 PER PARTECIAPRE ALLA SCUOLA SCI è NECESSARIO SOTTOSCRIVERE IL TESSERAMENTO PREMIUM - SCI SCICURO
 
 Corso Sci-Snowboarda al Passo dell'Aprica.
 Tre domeniche sulla neve per approcciarsi alle nobili arti dello Sci e dello Snowboard nel comprensorio del Passo dell'Aprica, accompaganti e guidati dai maestri della Scuola Nazionale Sci e Snowboard.
 
 [PASSO DELL'APRICA](https://www.apricaonline.com/it/montagna-inverno/sci)
+
 [SCUOLA SCI APRICA](https://www.apricasci.com)
 
 La quota di iscrizione per i nati negli anni 2008-2015 è di 225€.
