@@ -21,7 +21,7 @@ const Navbar = () => {
               href="/"
               className="flex title-font font-medium items-center text-gray-900 hover:text-blue-900"
             >
-              <img src="/assets/ski-64.png" alt="ski icon" />
+              <img src="/assets/sciclub-logo.png" alt="ski icon" width={64} height={64} />
               <span className="ml-3 font-bold text-xl">Sci Club Chiari</span>
             </Link>
             <button
