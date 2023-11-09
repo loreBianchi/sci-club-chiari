@@ -25,7 +25,7 @@ responsabilità. Iscrizioni aperte dal 18 Novembre.
 
 Le iscrizioni sono ritenute valide al saldo della quota gita.
 
-[PER ISCRIVERTI CLICCA QUI]()https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=7761b4e8-89f4-44af-b57d-97c6ced9c3e1
+[PER ISCRIVERTI CLICCA QUI](https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=7761b4e8-89f4-44af-b57d-97c6ced9c3e1)
 
 Informazioni 3663005802
 
