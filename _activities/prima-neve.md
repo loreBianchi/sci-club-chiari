@@ -7,32 +7,33 @@ ogImage:
   url: '/assets/attivita/cover-1.jpg'
 ---
 
-8 Dicembre PRIMA NEVE!! Gita in giornata a Corvatsch (Sankt Moritz) RISERVATA AI SOCI SCC.
+8 Dicembre PRIMA NEVE!! Gita in giornata a Corvatsch (Sankt Moritz) 
+
+ISCRIZIONE RISERVATA AI TESSERATI
 
 ## Quote
 
-70€ PULLMAN + GIORNALIERO SKI RAMA ADULTI.   
-60€ PULLMAN + GIORNALIERO JUNIOR (nati dal 30 aprile 2006 al 30 aprile 2014).   
-30€ PULLMAN + GIORNALIERO BAMBINI(nati dal 30 aprile 2014).   
-25€ SOLO PULLMAN.   
+80€ PULLMAN + GIORNALIERO Corvatsch ADULTI.   
+60€ PULLMAN + GIORNALIERO Corvatsch JUNIOR (13-17 anni).   
+50€ PULLMAN + GIORNALIERO BAMBINI(nati dal 30 aprile 2014).   
+30€ SOLO PULLMAN.   
 
-5€ di cauzione per ogni Skipass.
 
 I Minorenni possono partecipare unicamente accompagnati da un maggiorenne che ne assume totale
-responsabilità. Iscrizioni aperte dall’11 Novembre.
+responsabilità. Iscrizioni aperte dal 18 Novembre.
  
 
 Le iscrizioni sono ritenute valide al saldo della quota gita.
+
+[PER ISCRIVERTI CLICCA QUI]()https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=7761b4e8-89f4-44af-b57d-97c6ced9c3e1
 
 Informazioni 3663005802
 
 ## Informazioni utili
 
-- Le quote sono da intendersi per persona e sono riservate ai Soci dello Sci Club Chiari.  
-- La partenza di tutti i week-end è fissata per le 5.00 (ritrovo alle 4.45) dal parcheggio di Via LANCINI di Chiari (parcheggio dell’Istituto Comprensivo Mellini).  
-- La quota comprende il viaggio in pullman GT ed il soggiorno, con sistemazione in camera doppia/tripla, a mezza pensione (cena, pernottamento e prima colazione)  
-- La quota non comprende le bevande, gli ski-pass, gli extra di carattere personale e quanto non espressamente specificato.  
+- Le quote sono da intendersi per persona e sono riservate ai Tesserati dello Sci Club Chiari.  
+- La partenza di tutti i week-end è fissata per le 5.30 (ritrovo alle 5.15) dal parcheggio di Via LANCINI di Chiari (parcheggio dell’Istituto Comprensivo Mellini).  
 - In tutti i week-end organizzati dallo Sci Club Chiari è offerta ai Soci l’opportunità di acquistare gli ski-pass ai vantaggiosi prezzi riservati ai gruppi
-- Le iscrizioni ai week-end della Stagione Invernale 2023/2024 si possono effettuare in sede a partire da giovedì 11 Novembre 2023. 
-- L’iscrizione viene accettata esclusivamente previo il pagamento dell’intera quota prevista per il week-end; per politiche interne non vengono accettate prenotazioni e/o caparre
+- Le iscrizioni ai week-end della Stagione Invernale 2023/2024 si possono effettuare in sede a partire da sabato 18 Novembre 2023 e successivamente tutti i giovedì oppure semplicemente cliccando sul link presente in questa pagina. 
+- L’iscrizione viene accettata esclusivamente previo il pagamento dell’intera quota prevista per l'uscita; per politiche interne non vengono accettate prenotazioni e/o caparre.
 
