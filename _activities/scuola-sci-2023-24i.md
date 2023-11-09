@@ -7,7 +7,7 @@ ogImage:
   url: '/assets/attivita/cover-3.jpg'
 ---
 
-14-21-28 Gennaio 2024, Corso Sci-Snowboard al PAsso dell'Aprica.
+14-21-28 Gennaio 2024, Corso Sci-Snowboard al Passo dell'Aprica.
 
 #### QUOTE:
 
