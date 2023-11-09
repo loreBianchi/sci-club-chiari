@@ -1,7 +1,7 @@
 ---
 title: "Serata di apertura"
 excerpt: "Aperitivo Sabato 18/11/2023 alle 19.00."
-date: '2023-11-18T05:34:07.322Z'
+date: '2023-11-18T05:35:07.322Z'
 ---
 
 La sede apre al pubblico sabto 18/11/2022 alle 21.00.
