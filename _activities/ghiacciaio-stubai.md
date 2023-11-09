@@ -14,7 +14,7 @@ ogImage:
 
 USCITA RISERVATA AI TESSERATI
 
-La quota di iscrizione è di 1200€ e comprende:
+La quota di iscrizione è di 120€ e comprende:
 Pullman a/r e per trasferimenti in loco per raggiungere le località sciistiche;
 Albergo in trattamento di mezza pensione in camera doppia/tripla c/o AlpHotel Innsbruck.
 
