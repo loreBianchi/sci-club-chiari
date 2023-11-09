@@ -1,6 +1,6 @@
 ---
 title: "Weekend in Valle d'Aosta"
-excerpt: "Week-end sulle nevi della Valle d'Aosta"
+excerpt: "10-11 Febbraio 2024 Week-end sulle nevi della Valle d'Aosta"
 coverImage: '/assets/attivita/cover-2.jpg'
 date: '2024-02-10T05:35:07.322Z'
 ogImage:
