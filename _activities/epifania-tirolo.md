@@ -11,12 +11,13 @@ ogImage:
 
 #### QUOTE:
 
-200€ PULLMAN + Albergo mezza pensione in camera dippia/tripla.  
+USCITA RISERVATA AI TESSERATI
+
+La quota di iscrizione è di 200€ e comprende:
+Pullman a/r e per trasferimenti in loco per raggiungere le località sciistiche;
+Albergo mezza pensione in camera doppia/tripla c/o AlpHotel Innsbruck.
 
 [ALBERGO AlpHotel Innsbruck](https://www.alphotel.com/en/)
-
-USCITA RISERVATA AI TESSERATI
-  
 
 I Minorenni possono partecipare unicamente accompagnati da un maggiorenne che ne assume totale
 responsabilità. Iscrizioni aperte dal 18 Novembre.
@@ -24,6 +25,8 @@ responsabilità. Iscrizioni aperte dal 18 Novembre.
 Le iscrizioni sono ritenute valide al saldo della quota gita.
 
 Informazioni 3663005802
+
+[Link iscrizione] (https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=7761b4e8-89f4-44af-b57d-97c6ced9c3e1)
 
 ## Informazioni utili
 
