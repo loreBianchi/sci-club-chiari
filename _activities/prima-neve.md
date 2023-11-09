@@ -33,8 +33,7 @@ Informazioni 3663005802
 ## Informazioni utili
 
 - Le quote sono da intendersi per persona e sono riservate ai Tesserati dello Sci Club Chiari.  
-- La partenza di tutti i week-end è fissata per le 5.30 (ritrovo alle 5.15) dal parcheggio di Via LANCINI di Chiari (parcheggio dell’Istituto Comprensivo Mellini).  
-- In tutti i week-end organizzati dallo Sci Club Chiari è offerta ai Soci l’opportunità di acquistare gli ski-pass ai vantaggiosi prezzi riservati ai gruppi
-- Le iscrizioni ai week-end della Stagione Invernale 2023/2024 si possono effettuare in sede a partire da sabato 18 Novembre 2023 e successivamente tutti i giovedì oppure semplicemente cliccando sul link presente in questa pagina. 
+- La partenza per questa uscita è fissata per le 5.30 (ritrovo alle 5.15) dal parcheggio di Via LANCINI di Chiari (parcheggio dell’Istituto Comprensivo Mellini).  
+- Le iscrizioni alle uscite della Stagione Invernale 2023/2024 si possono effettuare in sede a partire da sabato 18 Novembre 2023 e successivamente tutti i giovedì oppure semplicemente cliccando sul link presente in questa pagina. 
 - L’iscrizione viene accettata esclusivamente previo il pagamento dell’intera quota prevista per l'uscita; per politiche interne non vengono accettate prenotazioni e/o caparre.
 
