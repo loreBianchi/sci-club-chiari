@@ -38,6 +38,6 @@ Informazioni 3663005802
 - La partenza è fissata per le 7.00 (ritrovo alle 6.45) dal parcheggio di Via LANCINI di Chiari (parcheggio dell’Istituto Comprensivo Mellini).  
 - La quota comprende il viaggio in pullman GT ed il soggiorno, 3 skipass e 12 ore di lezione totali (4 ore per ogni domenica dalle 11:00 alle 13:00 e dalle 14:00 alle 16:00).
 - La quota non comprende gli extra di carattere personale e quanto non espressamente specificato.  
-- Le iscrizioni ai week-end della Stagione Invernale 2023/2024 si possono effettuare in sede a partire da sabato 18 Novembre 2023 e successivamente in sede ogni giovedì oppure tramite il link che trovate in questa pagina.
-- L’iscrizione viene accettata esclusivamente previo il pagamento dell’intera quota prevista per il week-end; per politiche interne non vengono accettate prenotazioni e/o caparre.
+- Le iscrizioni al corso di sci-snowboard della Stagione Invernale 2023/2024 si possono effettuare in sede a partire da sabato 18 Novembre 2023 e successivamente in sede ogni giovedì oppure tramite il link che trovate in questa pagina.
+- L’iscrizione viene accettata esclusivamente previo il pagamento dell’intera quota prevista per il corso; per politiche interne non vengono accettate prenotazioni e/o caparre.
 - Possibilità noleggio attrezzatura direttamente in loco con attività convenzionata Sci Club Chiari.
