@@ -22,7 +22,6 @@ export default function Attivita({ allActivities: activities }) {
                     key={a.slug}
                     title={a.title}
                     coverImage={a.coverImage}
-                    date={a.date}
                     slug={a.slug}
                     excerpt={a.excerpt}
                   />
