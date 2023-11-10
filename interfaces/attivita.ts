@@ -3,6 +3,7 @@ type AttivitaType = {
   title: string
   date: string
   coverImage: string
+  bannerLink?: string
   excerpt: string
   ogImage: {
     url: string

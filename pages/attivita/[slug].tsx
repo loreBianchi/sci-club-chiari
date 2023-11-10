@@ -26,7 +26,7 @@ export default function AttivitaPost({ attivita }: AttivitaPostProps) {
     return <ErrorPage statusCode={404} />;
   }
   return (
-    <Layout>
+    <Layout hasStickyBanner={Boolean(attivita?.bannerLink)} bannerLink={attivita?.bannerLink}>
       <Container>
         {router.isFallback ? (
           <PostTitle>Loading…</PostTitle>
@@ -60,7 +60,7 @@ type Params = {
 export async function getStaticProps({ params }: Params) {
   const attivita = getPostBySlug(
     params.slug,
-    ["title", "date", "slug", "content", "ogImage", "coverImage"],
+    ["title", "date", "slug", "content", "ogImage", "coverImage", "bannerLink"],
     activitiesDirectory
   );
   const content = await markdownToHtml(attivita.content || "");
