@@ -5,6 +5,7 @@ coverImage: '/assets/attivita/cover-4.jpg'
 date: '2024-03-09T05:35:07.322Z'
 ogImage:
   url: '/assets/attivita/cover-4.jpg'
+bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=5ac3c175-9ba5-402d-b6f1-6c4a0d33ab97'  
 ---
 
 9-10 Marzo weekend a Livigno e Santa Caterina
