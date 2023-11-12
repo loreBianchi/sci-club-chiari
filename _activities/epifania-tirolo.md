@@ -5,7 +5,7 @@ coverImage: '/assets/attivita/cover-3.jpg'
 date: '2024-01-05T05:35:07.322Z'
 ogImage:
   url: '/assets/attivita/cover-3.jpg'
-  bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=86da1ffd-6b1d-4b7a-975e-83c1fd83656f'
+bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=86da1ffd-6b1d-4b7a-975e-83c1fd83656f'
 ---
 
 5-6-7 Gennaio 2024, soggiorno ad Innsbruck in hotel 4 stelle con SPA.
