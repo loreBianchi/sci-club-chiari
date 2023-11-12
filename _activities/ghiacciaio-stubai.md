@@ -5,6 +5,7 @@ coverImage: '/assets/attivita/cover-5.jpg'
 date: '2024-04-06T05:35:07.322Z'
 ogImage:
   url: '/assets/attivita/cover-5.jpg'
+bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=921bcdb2-6788-4b07-96bd-94a262c43ba6'
 ---
 
 6-7 Aprile sul ghiacciaio dello Stubai (AT)
@@ -27,7 +28,7 @@ Le iscrizioni sono ritenute valide al saldo della quota gita.
 
 Informazioni 3663005802
 
-[CLICCA QUI PER ISCRIVERTI](https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=921bcdb2-6788-4b07-96bd-94a262c43ba6)
+
 
 
 ## Informazioni utili
