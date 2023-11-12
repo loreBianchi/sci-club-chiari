@@ -5,6 +5,7 @@ coverImage: '/assets/attivita/cover-2.jpg'
 date: '2024-02-10T05:35:07.322Z'
 ogImage:
   url: '/assets/attivita/cover-2.jpg'
+bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=7d034c84-3727-463f-bec2-beb41ef49ac8'
 ---
 
 10-11 Febbraio 2024 Week-end sulle nevi della Valle d'Aosta
@@ -26,7 +27,6 @@ Le iscrizioni sono ritenute valide al saldo della quota gita.
 
 Informazioni 3663005802
 
-[CLICCA QUI PER ISCRIVERTI](https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=7d034c84-3727-463f-bec2-beb41ef49ac8)
 
 
 ## Informazioni utili
