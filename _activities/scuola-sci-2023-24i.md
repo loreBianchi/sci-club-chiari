@@ -23,7 +23,7 @@ Tre domeniche sulla neve per approcciarsi alle nobili arti dello Sci e dello Sno
 
 [SCUOLA SCI APRICA](https://www.apricasci.com)
 
-La quota di iscrizione per i nati negli anni 2008-2015 è di 225€.
+La quota di iscrizione per i nati negli anni 2008-2017 è di 225€.
 La quota di iscrizione per i nati prima del 2008 è di 250€.
 
  
