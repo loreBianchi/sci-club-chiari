@@ -27,7 +27,6 @@ Le iscrizioni sono ritenute valide al saldo della quota gita.
 
 Informazioni 3663005802
 
-[CLICCA QUI PER ISCRIVERTI](https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=5ac3c175-9ba5-402d-b6f1-6c4a0d33ab97)
 
 
 ## Informazioni utili
