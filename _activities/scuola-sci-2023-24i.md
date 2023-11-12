@@ -5,6 +5,7 @@ coverImage: '/assets/attivita/cover-3.jpg'
 date: '2024-01-14T05:35:07.322Z'
 ogImage:
   url: '/assets/attivita/cover-3.jpg'
+bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=efa48ba1-3873-4012-ba41-f64756370f8c'
 ---
 
 14-21-28 Gennaio 2024, Corso Sci-Snowboard al Passo dell'Aprica.
@@ -28,7 +29,6 @@ La quota di iscrizione per i nati prima del 2008 è di 250€.
  
 Le iscrizioni sono ritenute valide al saldo della quota.
 
-[CLICCA QUI PER ISCRIVERTI](https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=efa48ba1-3873-4012-ba41-f64756370f8c)
 
 Informazioni 3663005802
 
