@@ -1,5 +1,5 @@
 ---
-title: 'Epifania 3 giorni in Tirolo'
+title: 'TIROLO - WEEKEND EPIFANIA'
 excerpt: '5-6-7 Gennaio 2024 Weekend Tirolo soggiorno ad Innsbruck in hotel 4 stelle con SPA.'
 coverImage: '/assets/attivita/cover-3.jpg'
 date: '2024-01-05T05:35:07.322Z'
