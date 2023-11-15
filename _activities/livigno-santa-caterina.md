@@ -1,5 +1,5 @@
 ---
-title: "Weekend a Livigno e Santa Caterina"
+title: "LIVIGNO - SANTA CATERINA WEEKEND"
 excerpt: "9-10 Marzo 2024 Weekend a Livigno e Santa Caterina"
 coverImage: '/assets/attivita/cover-4.jpg'
 date: '2024-03-09T05:35:07.322Z'
