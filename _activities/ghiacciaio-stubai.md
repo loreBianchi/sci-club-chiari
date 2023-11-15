@@ -1,5 +1,5 @@
 ---
-title: "Weekend sul ghiacciaio dello Stubai (AT)"
+title: "STUBAI WEEKEND (AT)"
 excerpt: "6-7 Aprile 2024 Weekend sul ghiacciaio dello Stubai (AT)"
 coverImage: '/assets/attivita/cover-5.jpg'
 date: '2024-04-06T05:35:07.322Z'
