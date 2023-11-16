@@ -5,6 +5,7 @@ import Container from '../../components/container';
 import SciClubIntro from './sci-club-intro';
 import SciClubContent from './sci-club-content';
 import Privacy from './privacy';
+import Cookie from './cookie';
 
 export default function SciClub() {
   return (
@@ -18,6 +19,7 @@ export default function SciClub() {
             <SciClubIntro />
             <SciClubContent />
             <Privacy />
+            <Cookie />
           </div>
         </div>
       </Container>

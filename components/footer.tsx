@@ -7,7 +7,7 @@ const Footer = () => {
       <Container>
         <div className="py-20 flex flex-col lg:flex-row lg:justify-between items-center">
           <div className='text-center'>
-            <h6 className='text-blue-600 font-semibold'>SCI CLUB CHIARI</h6>
+            <h6 className='text-blue-600 font-semibold'>SCI CLUB CHIARI a.s.d.</h6>
             <span>Via San Bernardino, 8</span><br/>
             <span>25032 Chiari (BS)</span>
           </div>
@@ -31,7 +31,7 @@ const Footer = () => {
         <div className='flex flex-row justify-center items-center'>          
           Made with <FaHeart className='mx-1' /> by <a className='underline ml-1' href='https://lorenzo-bianchi.vercel.app/' target='blank'>Lorenzo Bianchi</a><br />
         </div>
-        <div className='flex flex-row justify-center items-center'>© 2023 Sci Club Chiari</div>
+        <div className='flex flex-row justify-center items-center'>© 2023 Sci Club Chiari a.s.d.</div>
       </div>
     </footer>
   )

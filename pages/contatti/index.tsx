@@ -27,7 +27,7 @@ export default function Contatti() {
           <div className="lg:px-8">
             <div className="mx-auto px-4 mb-20">
               <h1 className="mt-4 text-3xl">Contatti</h1>
-              <table className="my-20 table-auto">
+              <table className="my-10 table-auto">
                 <tbody>
                   <tr>
                     <td className="py-4 pr-6 text-slate-800">Telefono</td>
