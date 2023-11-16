@@ -22,4 +22,9 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  width: 100%;
+}
+
+.text-shadow-title {
+  text-shadow: rgb(228, 240, 243) 0.5px 0 2px;
 }
