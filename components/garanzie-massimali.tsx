@@ -13,6 +13,10 @@ export default function GaranzieMassimali({
 }: GaranzieMassimaliProps) {
   return (
     <div className="mx-auto px-4 mt-10">
+      <h1 className="my-4 text-2xl">TESSERAMENTO PREMIUM - SCI SICURO</h1>
+      <p className="mt-2 text-base leading-7 text-slate-700">
+        Le seguenti informazioni sono applicate per il tesseramento Premium - sci sicuro
+      </p>
       <h1 className="my-4 text-2xl">Garanzie e massimali</h1>
       <div className="my-10">
         <h2 className="my-2 text-lg font-medium text-slate-900">
