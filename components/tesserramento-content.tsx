@@ -1,4 +1,5 @@
 import TesseramentoCard from "./tesseramento-card";
+import { FaAward, FaCrown } from "react-icons/fa";
 
 export default function TesseramentoContent() {
   return (
@@ -36,12 +37,17 @@ export default function TesseramentoContent() {
         </p>
       </div>
       <div className="mt-10">
-        <p className="mt-1 text-base leading-7 text-slate-500 mb-8 text-center">
+        <p className="mt-1 text-xl leading-7 text-slate-700 mb-8 text-center">
           Per la stagione 2023/24 abbiamo previsto due possibilità di
           tesseramento.
         </p>
         <div className="space-y-8 lg:grid lg:grid-cols-2 sm:gap-4 xl:gap-10 lg:space-y-0">
-          <TesseramentoCard title="TESSERAMENTO BASE" price={"15 €"}>
+          <TesseramentoCard
+            title="TESSERAMENTO BASE"
+            price={"15 €"}
+            classNames="bg-blue-100 border-blue-500"
+            icon={<FaAward className="ml-2 inline" />}
+          >
             <>
               <p className="mt-1 text-base leading-7 text-slate-700">
                 Per la stagione invernale 2023/2024 il costo è di 15€
@@ -52,7 +58,7 @@ export default function TesseramentoContent() {
               <h2 className="my-4 text-lg font-medium text-slate-900">
                 Cosa viene assicurato:
               </h2>
-              <div className="text-left">                
+              <div className="text-left">
                 <ul className="list-disc text-base leading-7 text-slate-700 list-inside">
                   <li>Morte (Massimali 80.000,00 €)</li>
                   <li>
@@ -80,7 +86,13 @@ export default function TesseramentoContent() {
               </div>
             </>
           </TesseramentoCard>
-          <TesseramentoCard title="TESSERAMENTO PREMIUM - SCI SICURO" price={"30 €"}>
+          <TesseramentoCard
+            title="TESSERAMENTO PREMIUM"
+            price={"30 €"}
+            classNames="bg-green-100 border-green-500"
+            subTitle="SCI SICURO"
+            icon={<FaCrown className="ml-2 inline" />}
+          >
             <>
               <p className="mt-1 text-base leading-7 text-slate-700">
                 Per la stagione invernale 2023/2024 il costo è di 30€
@@ -89,11 +101,10 @@ export default function TesseramentoContent() {
                 sede o tramite il link presente in questa pagina.
               </p>
               <div className="text-left">
-
                 <p className="mt-1 text-base leading-7 text-slate-700">
                   L’Assicurazione Sci Sicuro vale per l’attività sciistica
-                  ricreativa sulla neve degli iscritti agli Sci Club (Sci Alpino,
-                  Sci di Fondo e Snowboard Alpino).
+                  ricreativa sulla neve degli iscritti agli Sci Club (Sci
+                  Alpino, Sci di Fondo e Snowboard Alpino).
                 </p>
                 <h2 className="mt-2 text-lg font-medium text-slate-900">
                   Altre attività incluse nell’Assicurazione:
@@ -115,8 +126,8 @@ export default function TesseramentoContent() {
                 </h2>
                 <p className="mt-1 text-base leading-7 text-slate-700">
                   L’Assicurazione Sci Sicuro è stagionale .<br />
-                  La polizza è valida dalle ore 24.00 del giorno di attivazione e
-                  cessa alle ore 24.00 del 30/09/2024.
+                  La polizza è valida dalle ore 24.00 del giorno di attivazione
+                  e cessa alle ore 24.00 del 30/09/2024.
                 </p>
                 <h2 className="mt-2 text-lg font-medium text-slate-900">
                   Validità territoriale:
@@ -133,7 +144,7 @@ export default function TesseramentoContent() {
                   età compresa tra i 3 e gli 80 anni.
                 </p>
                 <p className="mt-1 text-base leading-7 text-slate-700">
-                  Per le condizioni di polizza potete visitare il sito:{' '}
+                  Per le condizioni di polizza potete visitare il sito:{" "}
                   <a
                     href="https://www.scisicuro.it"
                     className="text-blue-600 hover:underline"
@@ -141,7 +152,6 @@ export default function TesseramentoContent() {
                   >
                     scisicuro.it
                   </a>
-
                 </p>
               </div>
             </>
