@@ -122,14 +122,14 @@ export default function Cookie() {
           selezionare 'Opzioni internet'. Nella finestra pop up selezionare
           'Privacy'. <br />
           Qui potrete regolare le impostazioni dei vostri cookie oppure tramite
-          il link{" "}
+          questo{" "}
           <a
             href="https://support.microsoft.com/it-it/windows/eliminare-e-gestire-i-cookie-168dab11-0753-043d-7c16-ede5947fc64d"
             target="_blank"
             className="text-blue-600 hover:underline"
             rel="noopener noreferrer"
           >
-            https://support.microsoft.com/it-it/windows/eliminare-e-gestire-i-cookie-168dab11-0753-043d-7c16-ede5947fc64d
+            link
           </a>
         </p>
         <h5 className="mb-2 text-slate-500">Google Chrome</h5>
@@ -139,14 +139,14 @@ export default function Cookie() {
           avanzate' (“Under the hood”) e cambiare le impostazioni della Privacy.{" "}
           <br />
           Qui potrete regolare le impostazioni dei vostri cookie oppure tramite
-          il link{" "}
+          questo{" "}
           <a
             href="https://support.google.com/chrome/bin/answer.py?hl=en&answer=95647&p=cpn_cookie"
             target="_blank"
             className="text-blue-600 hover:underline"
             rel="noopener noreferrer"
           >
-            https://support.google.com/chrome/bin/answer.py?hl=en&answer=95647&p=cpn_cookie
+            link
           </a>
         </p>
         <h5 className="mb-2 text-slate-500">Mozilla Firefox</h5>
@@ -154,14 +154,14 @@ export default function Cookie() {
           Dal menu a tendina nell’angolo in alto a sinistra selezionare
           'Opzioni'. Nella finestra di pop up selezionare 'Privacy'. <br />
           Qui potrete regolare le impostazioni dei vostri cookie oppure tramite
-          il link{" "}
+          questo{" "}
           <a
             href="https://support.mozilla.org/it/kb/Eliminare%20i%20cookie"
             target="_blank"
             className="text-blue-600 hover:underline"
             rel="noopener noreferrer"
           >
-            https://support.mozilla.org/it/kb/Eliminare%20i%20cookie
+            link
           </a>
         </p>
         <h5 className="mb-2 text-slate-500">Apple Safari</h5>
@@ -169,14 +169,14 @@ export default function Cookie() {
           Dal menu di impostazione a tendina nell’angolo in alto a destra
           selezionare 'Preferenze'. Selezionare 'Sicurezza'. <br />
           Qui potrete regolare le impostazioni dei vostri cookie oppure tramite
-          il link{" "}
+          questo{" "}
           <a
             href="https://support.apple.com/it-it/guide/safari/sfri11471/mac"
             target="_blank"
             className="text-blue-600 hover:underline"
             rel="noopener noreferrer"
           >
-            https://support.apple.com/it-it/guide/safari/sfri11471/mac
+            link
           </a>
         </p>
         <p className="mb-4 text-base leading-7 text-slate-700">
