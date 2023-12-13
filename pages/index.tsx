@@ -1,7 +1,7 @@
 import Container from "../components/container";
 import MoreStories from "../components/more-stories";
 import Layout from "../components/layout";
-import { getAllActivities } from "../lib/api";
+import { getAllFutureActivities } from "../lib/api";
 import Head from "next/head";
 import { SITE_NAME } from "../lib/constants";
 import Post from "../interfaces/post";
@@ -29,6 +29,7 @@ export default function Index({ allPosts }: Props) {
               className="shadow-sm w-full"
               width={1300}
               height={630}
+              priority
             />
             <div className="home-title-container text-center">
               <h1 className="text-2xl sm:text-4xl md:text-7xl lg:text-8xl font-bold tracking-tighter leading-tight text-blue-300 drop-shadow-lg mb-6 text-shadow-title">
@@ -58,7 +59,7 @@ export default function Index({ allPosts }: Props) {
 }
 
 export const getStaticProps = async () => {
-  const allPosts = getAllActivities([
+  const allPosts = getAllFutureActivities([
     "title",
     "date",
     "slug",
