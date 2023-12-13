@@ -52,6 +52,26 @@ export function getAllActivities(fields: string[] = []) {
   return posts
 }
 
+export function getAllFutureActivities(fields: string[] = []) {
+  const slugs = getActivitiesSlugs()
+  const posts = slugs
+    .map((slug) => getPostBySlug(slug, fields, activitiesDirectory))
+    // sort posts by date in ascending order
+    .sort((post1, post2) => (post1.date < post2.date ? -1 : 1))
+    .filter((post) => post.date > new Date().toISOString())
+  return posts
+}
+
+export function getAllPastActivities(fields: string[] = []) {
+  const slugs = getActivitiesSlugs()
+  const posts = slugs
+    .map((slug) => getPostBySlug(slug, fields, activitiesDirectory))
+    // sort posts by date in ascending order
+    .sort((post1, post2) => (post1.date < post2.date ? -1 : 1))
+    .filter((post) => post.date < new Date().toISOString())
+  return posts
+}
+
 export function getAllNews(fields: string[] = []) {
   const slugs = getNewsSlugs()
   const news = slugs
