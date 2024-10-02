@@ -29,7 +29,9 @@ export default function Map(props: MapProps) {
           />
           <Marker position={position}>
             <Popup>
-              A pretty CSS3 Tooltip. <br /> Easily customizable.
+              Sede <b>SCI CLUB CHIARI</b> ⛷️ <br />
+              Via San Bernardino, 8 <br />
+              25032 Chiari (BS)
             </Popup>
           </Marker>
         </MapContainer>

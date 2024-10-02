@@ -38,7 +38,7 @@ export default function TesseramentoContent() {
       </div>
       <div className="mt-10">
         <p className="mt-1 text-xl leading-7 text-slate-700 mb-8 text-center">
-          Per la stagione 2023/24 abbiamo previsto due possibilità di
+          Per la stagione 2024/25 abbiamo previsto due possibilità di
           tesseramento.
         </p>
         <div className="space-y-8 lg:grid lg:grid-cols-2 sm:gap-4 xl:gap-10 lg:space-y-0">
@@ -50,7 +50,7 @@ export default function TesseramentoContent() {
           >
             <>
               <p className="mt-1 text-base leading-7 text-slate-700">
-                Per la stagione invernale 2023/2024 il costo è di 15€
+                Per la stagione invernale 2024/2025 il costo è di 15€
                 comprensivo di iscrizione allo Sci Club e di Assicurazione
                 obbligatoria. L’iscrizione può essere effettuata direttamente in
                 sede o tramite il link presente in questa pagina.
@@ -95,7 +95,7 @@ export default function TesseramentoContent() {
           >
             <>
               <p className="mt-1 text-base leading-7 text-slate-700">
-                Per la stagione invernale 2023/2024 il costo è di 30€
+                Per la stagione invernale 2024/2025 il costo è di 30€
                 comprensivo di iscrizione allo Sci Club e di Assicurazione
                 obbligatoria. L’iscrizione può essere effettuata direttamente in
                 sede o tramite il link presente in questa pagina.
@@ -127,7 +127,7 @@ export default function TesseramentoContent() {
                 <p className="mt-1 text-base leading-7 text-slate-700">
                   L’Assicurazione Sci Sicuro è stagionale .<br />
                   La polizza è valida dalle ore 24.00 del giorno di attivazione
-                  e cessa alle ore 24.00 del 30/09/2024.
+                  e cessa alle ore 24.00 del 31/08/2025.
                 </p>
                 <h2 className="mt-2 text-lg font-medium text-slate-900">
                   Validità territoriale:
