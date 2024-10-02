@@ -38,7 +38,7 @@ export default function Index({ allPosts }: Props) {
               <h2 className="text-xl sm:text-3xl md:text-5xl lg:text-6xl font-semibold tracking-tighter leading-tight text-blue-400 drop-shadow-lg mb-8 text-shadow-title">
                 La passione per la montagna
               </h2>
-              <Link className="px-3 py-2 text-white bg-blue-500 border-2 border-blue-600 py-2 px-6 focus:outline-none hover:bg-blue-700 rounded text-lg" href="/tesseramento">
+              <Link className="text-white bg-blue-500 border-2 border-blue-600 py-2 px-6 focus:outline-none hover:bg-blue-700 rounded text-lg" href="/tesseramento">
                 È aperto il tesseramento
               </Link>
             </div>
@@ -47,7 +47,7 @@ export default function Index({ allPosts }: Props) {
             <MoreStories posts={nextActivities} title="Prossime uscite" />
           )}
           <div className="mb-16">
-            <Link className="px-3 py-2 text-blue-600 border-2 border-blue-600 py-2 px-6 focus:outline-none hover:bg-blue-50 rounded text-lg" href="/attivita">
+            <Link className="text-blue-600 border-2 border-blue-600 py-2 px-6 focus:outline-none hover:bg-blue-50 rounded text-lg" href="/attivita">
               Vedi tutte le attività
               <FaArrowRight className="inline ml-2" />
             </Link>

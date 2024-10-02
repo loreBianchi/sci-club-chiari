@@ -2,7 +2,7 @@
 title: "STUBAI WEEKEND (AT)"
 excerpt: "6-7 Aprile 2024 Weekend sul ghiacciaio dello Stubai (AT)"
 coverImage: '/assets/attivita/cover-5.jpg'
-date: '2024-04-06T05:35:07.322Z'
+date: '2025-04-06T05:35:07.322Z'
 ogImage:
   url: '/assets/attivita/cover-5.jpg'
 bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=921bcdb2-6788-4b07-96bd-94a262c43ba6'

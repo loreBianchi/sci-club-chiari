@@ -8,12 +8,12 @@ import {
   activitiesDirectory,
   getPostBySlug,
 } from "../../lib/api";
-import PostTitle from "../../components/post-title";
 import Head from "next/head";
 import { SITE_NAME } from "../../lib/constants";
 import markdownToHtml from "../../lib/markdownToHtml";
 import type AttivitaType from "../../interfaces/attivita";
 import AttivitaHeader from "../../components/attivita-header";
+import Loader from "../../components/loader";
 
 type AttivitaPostProps = {
   attivita: AttivitaType;
@@ -29,7 +29,7 @@ export default function AttivitaPost({ attivita }: AttivitaPostProps) {
     <Layout hasStickyBanner={Boolean(attivita?.bannerLink)} bannerLink={attivita?.bannerLink}>
       <Container>
         {router.isFallback ? (
-          <PostTitle>Loading…</PostTitle>
+          <Loader />
         ) : (
           <>
             <article className="mb-32">

@@ -1,20 +1,21 @@
 ---
-title: 'TIROLO - WEEKEND EPIFANIA'
-excerpt: '5-6-7 Gennaio 2024 Weekend Tirolo soggiorno ad Innsbruck in hotel 4 stelle con SPA.'
-coverImage: '/assets/attivita/cover-3.jpg'
-date: '2025-01-05T05:35:07.322Z'
+title: "STUBAI WEEKEND (AT)"
+excerpt: "6-7 Aprile 2024 Weekend sul ghiacciaio dello Stubai (AT)"
+coverImage: '/assets/attivita/cover-5.jpg'
+date: '2024-04-06T05:35:07.322Z'
 ogImage:
-  url: '/assets/attivita/cover-3.jpg'
-bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=86da1ffd-6b1d-4b7a-975e-83c1fd83656f'
+  url: '/assets/attivita/cover-5.jpg'
+bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=921bcdb2-6788-4b07-96bd-94a262c43ba6'
 ---
 
-5-6-7 Gennaio 2024, soggiorno ad Innsbruck in hotel 4 stelle con SPA.
+6-7 Aprile sul ghiacciaio dello Stubai (AT)
 
-#### QUOTE:
+## Quote
+
 
 USCITA RISERVATA AI TESSERATI
 
-La quota di iscrizione è di 200€ e comprende:
+La quota di iscrizione è di 120€ e comprende:
 Pullman a/r e per trasferimenti in loco per raggiungere le località sciistiche;
 Albergo in trattamento di mezza pensione in camera doppia/tripla c/o AlpHotel Innsbruck.
 
@@ -26,6 +27,8 @@ responsabilità. Iscrizioni aperte dal 18 Novembre.
 Le iscrizioni sono ritenute valide al saldo della quota gita.
 
 Informazioni 3663005802
+
+
 
 
 ## Informazioni utili

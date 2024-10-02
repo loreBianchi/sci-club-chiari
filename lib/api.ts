@@ -4,9 +4,10 @@ import matter from 'gray-matter'
 
 export const activitiesDirectory = join(process.cwd(), '_activities')
 export const newsDirectory = join(process.cwd(), '_news')
+export const season23_24_Directory = join(process.cwd(), '_season_23_24')
 
-export function getActivitiesSlugs() {
-  return fs.readdirSync(activitiesDirectory)
+export function getActivitiesSlugs(directory = activitiesDirectory) {
+  return fs.readdirSync(directory)
 }
 
 export function getNewsSlugs() {
@@ -62,14 +63,18 @@ export function getAllFutureActivities(fields: string[] = []) {
   return posts
 }
 
-export function getAllPastActivities(fields: string[] = []) {
-  const slugs = getActivitiesSlugs()
+export function getAllPastActivities(fields: string[] = [], directory = activitiesDirectory) {
+  const slugs = getActivitiesSlugs(directory)
   const posts = slugs
-    .map((slug) => getPostBySlug(slug, fields, activitiesDirectory))
+    .map((slug) => getPostBySlug(slug, fields, directory))
     // sort posts by date in ascending order
     .sort((post1, post2) => (post1.date < post2.date ? -1 : 1))
     .filter((post) => post.date < new Date().toISOString())
   return posts
+}
+
+export function getPostBySlugSeason23_24(fields: string[] = []) {
+  return getAllPastActivities(fields, season23_24_Directory)
 }
 
 export function getAllNews(fields: string[] = []) {
