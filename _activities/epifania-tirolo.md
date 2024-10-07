@@ -10,9 +10,10 @@ bannerLink: 'xx'
 
 3-4-5 Gennaio 2025, soggiorno a Les Deux Alpes in hotel 3 stelle con SPA.
 
-#### QUOTE:
-
 USCITA RISERVATA AI TESSERATI
+
+
+#### QUOTE:
 
 La quota di iscrizione è di 220€ e comprende:
 Pullman a/r e per trasferimenti in loco per raggiungere le località sciistiche;
