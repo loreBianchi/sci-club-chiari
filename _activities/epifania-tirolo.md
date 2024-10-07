@@ -24,7 +24,7 @@ Utillizzo SPA nelle giornate di Sabato 4 e Domenica 5 dalle 15:00 alle 19:00.
 [LES DEUX ALPES](https://www.les2alpes.com/inverno/)
 
 I Minorenni possono partecipare unicamente accompagnati da un maggiorenne che ne assume totale
-responsabilità. Iscrizioni aperte dal 18 Novembre.
+responsabilità. Iscrizioni aperte dal 18 Ottobre.
  
 Le iscrizioni sono ritenute valide al saldo della quota gita.
 
