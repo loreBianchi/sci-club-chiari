@@ -2,7 +2,7 @@
 title: 'LIVIGNO - SANTA CATERINA WEEKEND'
 excerpt: "1-2 Marzo 2025 Weekend a Livigno e Santa Caterina"
 coverImage: '/assets/attivita/cover-4.jpg'
-date: '2025-03-09T05:35:07.322Z'
+date: '2025-03-11T05:35:07.322Z'
 ogImage:
   url: '/assets/attivita/cover-4.jpg'
 bannerLink: 'xxx qui il link pagamento weesport'  
