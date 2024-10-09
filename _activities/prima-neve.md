@@ -20,7 +20,7 @@ La quota di iscrizione è di 120€ e comprende:
 Pullman a/r e per trasferimenti in loco per raggiungere le località sciistiche;
 Albergo in trattamento di mezza pensione in camera doppia/tripla c/o Smart Hotel Firn - Madonna di Senales (l'hotel è dotato di area SPA, l'utilizzo della SPA non è compreso nella quota di iscrizione. Un eventuale utilizzo della zona SPA è da ritenersi a pagamento e va concordato con la reception al momento del check-in).
 
-[SMART HOTEL FIRN - Madonna di Senales]([https://www.beausejourhotel.com](https://www.hotelfirn.com/de/))
+[SMART HOTEL FIRN - Madonna di Senales](https://www.hotelfirn.com/de/)
 
 I Minorenni possono partecipare unicamente accompagnati da un maggiorenne che ne assume totale
 responsabilità. Iscrizioni aperte dal 18 Ottobre.
