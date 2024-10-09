@@ -1,6 +1,6 @@
 ---
-title: 'VAL SENALES WEEKEND - Prima neve'
-excerpt: '8-9 Dicembre PRIMA NEVE!! Gita in giornata a Corvatsch (Sankt Moritz)'
+title: 'VAL SENALES WEEK-END - Prima neve'
+excerpt: '8-9 Dicembre PRIMA NEVE!! Week-end in Val Senales'
 coverImage: '/assets/attivita/cover-1.jpg'
 date: '2024-12-25T05:35:07.322Z'
 ogImage:
