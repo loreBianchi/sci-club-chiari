@@ -33,7 +33,7 @@ Informazioni 3663005802
 
 ## Informazioni utili
 
-- Le quote sono da intendersi per persona e sono riservate ai Soci dello Sci Club Chiari.  
+- Le quote sono da intendersi per persona e sono riservate ai Tesserati dello Sci Club Chiari.  
 - La partenza di tutti i week-end è fissata per le 5.00 (ritrovo alle 4.45) dal parcheggio di Via LANCINI di Chiari (parcheggio dell’Istituto Comprensivo Mellini).  
 - La quota comprende il viaggio in pullman GT ed il soggiorno, con sistemazione in camera doppia/tripla, a mezza pensione (cena, pernottamento e prima colazione)  
 - La quota non comprende le bevande, gli ski-pass, gli extra di carattere personale e quanto non espressamente specificato.  
