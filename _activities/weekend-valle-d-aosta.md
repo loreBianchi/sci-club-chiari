@@ -1,6 +1,6 @@
 ---
 title: "VALLE D'AOSTA - WEEKEND"
-excerpt: "10-11 Febbraio 2025 Week-end sulle nevi della Valle d'Aosta"
+excerpt: "8-9 Febbraio 2025 Week-end sulle nevi della Valle d'Aosta"
 coverImage: '/assets/attivita/cover-2.jpg'
 date: '2025-03-10T05:35:07.322Z'
 ogImage:
