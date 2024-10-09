@@ -1,5 +1,5 @@
 ---
-title: 'Les Deux Alpes - WEEKEND NUOVO ANNO'
+title: 'LES DEUX ALPES - WEEKEND NUOVO ANNO'
 excerpt: '3-4-5 Gennaio 2025 Weekend Les 2 Alpes'
 coverImage: '/assets/attivita/cover-3.jpg'
 date: '2025-01-05T05:35:07.322Z'
