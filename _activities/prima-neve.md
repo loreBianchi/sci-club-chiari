@@ -1,5 +1,5 @@
 ---
-title: 'VAL SENALES WEEK-END - Prima neve'
+title: 'VAL SENALES WEEKEND - Prima neve'
 excerpt: '7-8 Dicembre PRIMA NEVE!! Week-end in Val Senales'
 coverImage: '/assets/attivita/cover-1.jpg'
 date: '2024-12-25T05:35:07.322Z'
