@@ -1,6 +1,6 @@
 ---
 title: 'SCUOLA SCI - SNOW APRICA'
-excerpt: '12-19-26 Gennaio 2025, scuola sci Aprica.'
+excerpt: '12-19-26 Gennaio 2025 Scuola Sci Aprica.'
 coverImage: '/assets/attivita/cover-3.jpg'
 date: '2025-01-14T05:35:07.322Z'
 ogImage:
