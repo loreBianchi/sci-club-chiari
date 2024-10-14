@@ -5,7 +5,7 @@ coverImage: '/assets/attivita/cover-1.jpg'
 date: '2024-12-25T05:35:07.322Z'
 ogImage:
   url: '/assets/attivita/cover-1.jpg'
-bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=7761b4e8-89f4-44af-b57d-97c6ced9c3e1'
+bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=e29cc44f-b6d5-4db9-b42a-b33308d2f178'
 ---
 
 7-8 Dicembre PRIMA NEVE!! Week-end in VAL SENALES
