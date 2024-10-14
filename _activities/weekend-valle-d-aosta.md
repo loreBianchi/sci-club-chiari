@@ -5,7 +5,7 @@ coverImage: '/assets/attivita/cover-2.jpg'
 date: '2025-02-10T05:35:07.322Z'
 ogImage:
   url: '/assets/attivita/cover-2.jpg'
-bannerLink: 'xxx'
+bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=dd546ac2-1127-42dd-8b8e-1f8e5069aecb'
 ---
 
 8-9 Febbraio 2025 Week-end sulle nevi della Valle d'Aosta
