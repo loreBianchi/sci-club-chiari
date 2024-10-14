@@ -35,6 +35,6 @@ Informazioni 3663005802
 - La partenza di tutti i week-end è fissata per le 5.00 (ritrovo alle 4.45) dal parcheggio di Via LANCINI di Chiari (parcheggio dell’Istituto Comprensivo Mellini).  
 - La quota comprende il viaggio in pullman GT ed il soggiorno, con sistemazione in camera doppia/tripla, a mezza pensione (cena, pernottamento e prima colazione)  
 - La quota non comprende le bevande, gli ski-pass, gli extra di carattere personale e quanto non espressamente specificato.  
-- In tutti i week-end organizzati dallo Sci Club Chiari è offerta ai Soci l’opportunità di acquistare gli ski-pass ai vantaggiosi prezzi riservati ai gruppi
-- Le iscrizioni ai week-end della Stagione Invernale 2024/2025 si possono effettuare in sede a partire da sabato 18 Ottobre 2024 e successivamente tutti i giovedì oppure tramite apposito link presente in questa pagina.  
+- In tutti i week-end organizzati dallo Sci Club Chiari è offerta ai Tesserati l’opportunità di acquistare gli ski-pass ai vantaggiosi prezzi riservati ai gruppi
+- Le iscrizioni ai week-end della Stagione Invernale 2024/2025 si possono effettuare in sede a partire da venerdì 18 Ottobre 2024 e successivamente tutti i giovedì oppure tramite apposito link presente in questa pagina.
 - L’iscrizione viene accettata esclusivamente previo il pagamento dell’intera quota prevista per il week-end; per politiche interne non vengono accettate prenotazioni e/o caparre
