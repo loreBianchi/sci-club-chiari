@@ -5,7 +5,7 @@ coverImage: '/assets/attivita/cover-5.jpg'
 date: '2025-04-06T05:35:07.322Z'
 ogImage:
   url: '/assets/attivita/cover-5.jpg'
-bannerLink: 'xxx'
+bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=942bc23c-ae5e-44cf-bb3d-498e688b27c7'
 ---
 
 29-30 Marzo 2025 sul ghiacciaio dello Stubai (AT)
