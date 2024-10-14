@@ -5,7 +5,7 @@ coverImage: '/assets/attivita/cover-3.jpg'
 date: '2025-01-05T05:35:07.322Z'
 ogImage:
   url: '/assets/attivita/cover-3.jpg'
-bannerLink: 'xx'
+bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=984b8868-3d3b-4089-91ef-b178104c8d61'
 ---
 
 3-4-5 Gennaio 2025, soggiorno a Les Deux Alpes in hotel 3 stelle con SPA.
