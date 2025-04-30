@@ -2,6 +2,7 @@
 title: "Pranzo sociale di fine stagione 2025"
 excerpt: "Domenica 25 Maggio al Ristorante Camplani di Zone (BS)."
 date: '2025-05-25T13:00:00.000Z'
+slug: pranzo-sociale-2025
 ---
 
 # Pranzo sociale di fine stagione 2025
