@@ -1,11 +1,15 @@
+import { IS_SEASON_OPEN } from '../lib/constants'
 import Footer from './footer'
+import IscrizioniStickyBanner from './iscrizioni-sticky-banner'
 import Meta from './meta'
 import Navbar from './navbar'
+import SeasonClosedStickyBanner from './season-closed-sticky-banner'
 
 type Props = {
   children: React.ReactNode
   hasStickyBanner?: boolean
   bannerLink?: string
+  isSeasonClosed?: boolean
 }
 
 const Layout = ({ children, hasStickyBanner = false, bannerLink }: Props) => {
@@ -14,21 +18,9 @@ const Layout = ({ children, hasStickyBanner = false, bannerLink }: Props) => {
       <Meta />
       <div className="min-h-screen">
         <Navbar />
-        {hasStickyBanner && bannerLink && (
-          <div className="bg-green-500 text-white text-center py-2 sticky top-[96px]">
-            <p>
-              <strong>🚨 ATTENZIONE 🚨</strong> le iscrizioni sono aperte!{' '}
-              <a
-                href={bannerLink}
-                className="underline hover:text-blue-200"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Clicca qui per iscriverti!
-              </a>
-            </p>
-          </div>
-        )}
+        {hasStickyBanner && bannerLink && IS_SEASON_OPEN && <IscrizioniStickyBanner bannerLink={bannerLink} />}
+        {hasStickyBanner && !IS_SEASON_OPEN && <SeasonClosedStickyBanner />}
+        {/* Main content */}
         <main className={hasStickyBanner && bannerLink ? 'mt-8' : 'mt-4'}>{children}</main>
       </div>
       <Footer />

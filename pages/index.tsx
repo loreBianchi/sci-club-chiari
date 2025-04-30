@@ -3,11 +3,12 @@ import MoreStories from "../components/more-stories";
 import Layout from "../components/layout";
 import { getAllFutureActivities } from "../lib/api";
 import Head from "next/head";
-import { SITE_NAME } from "../lib/constants";
+import { SITE_NAME, IS_SEASON_OPEN } from "../lib/constants";
 import Post from "../interfaces/post";
 import Image from "next/image";
 import Link from "next/link";
 import { FaArrowRight } from "react-icons/fa";
+import LinkButton from "../components/link-button";
 
 type Props = {
   allPosts: Post[];
@@ -38,20 +39,31 @@ export default function Index({ allPosts }: Props) {
               <h2 className="text-xl sm:text-3xl md:text-5xl lg:text-6xl font-semibold tracking-tighter leading-tight text-blue-400 drop-shadow-lg mb-8 text-shadow-title">
                 La passione per la montagna
               </h2>
-              <Link className="text-white bg-blue-500 border-2 border-blue-600 py-2 px-6 focus:outline-none hover:bg-blue-700 rounded text-lg" href="/tesseramento">
-                È aperto il tesseramento
-              </Link>
+              {IS_SEASON_OPEN ? (
+                <LinkButton color="blue" href="/tesseramento" label="È aperto il tesseramento" />
+              ) : (
+                <LinkButton
+                  color="green"
+                  href="/news/pranzo-sociale-2025"
+                  label="Attalmente il tesseramento è chiuso, ci vediamo al pranzo sociale!"
+                />
+              )}
             </div>
           </div>
           {nextActivities.length > 0 && (
             <MoreStories posts={nextActivities} title="Prossime uscite" />
           )}
-          <div className="mb-16">
-            <Link className="text-blue-600 border-2 border-blue-600 py-2 px-6 focus:outline-none hover:bg-blue-50 rounded text-lg" href="/attivita">
-              Vedi tutte le attività
-              <FaArrowRight className="inline ml-2" />
-            </Link>
-          </div>
+          {IS_SEASON_OPEN && (
+            <div className="mb-16">
+              <Link
+                className="text-blue-600 border-2 border-blue-600 py-2 px-6 focus:outline-none hover:bg-blue-50 rounded text-lg "
+                href="/attivita"
+              >
+                Vedi tutte le attività
+                <FaArrowRight className="inline ml-2" />
+              </Link>
+            </div>
+          )}
         </Container>
       </Layout>
     </>
