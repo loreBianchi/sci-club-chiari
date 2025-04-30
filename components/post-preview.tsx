@@ -10,6 +10,7 @@ type Props = {
   author?: Author;
   slug: string;
   directory?: string;
+  linkDisabled?: boolean;
 };
 
 const PostPreview = ({
@@ -19,20 +20,25 @@ const PostPreview = ({
   author,
   slug,
   directory = "attivita",
+  linkDisabled = false,
 }: Props) => {
   return (
     <div>
       <div className="mb-5">
-        <CoverImage slug={slug} title={title} src={coverImage} directory={directory} />
+        <CoverImage slug={linkDisabled ? undefined : slug} title={title} src={coverImage} directory={directory} />
       </div>
       <h3 className="text-3xl mb-3 leading-snug">
-        <Link
-          as={`/${directory}/${slug}`}
-          href={`/${directory}/[slug]`}
-          className="hover:underline"
-        >
-          {title}
-        </Link>
+        {linkDisabled ? (
+          <span className="text-gray-500">{title}</span>
+        ) : (
+          <Link
+            as={`/${directory}/${slug}`}
+            href={`/${directory}/[slug]`}
+            className="hover:underline"
+          >
+            {title}
+          </Link>
+        )}
       </h3>
       <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
       {author && <Avatar name={author.name} picture={author.picture} />}

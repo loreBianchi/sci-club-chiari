@@ -45,20 +45,21 @@ export default function Attivita({ allActivities: activities, pastActivities }) 
                       coverImage={a.coverImage}
                       slug={a.slug}
                       excerpt={a.excerpt}
+                      linkDisabled
                     />
                   ))}
                 </div>
               </div>
             )}
 
-            <div className="mx-auto px-4 mb-20">
+            {/* <div className="mx-auto px-4 mb-20">
               <Link
                 href="/stagione-23-24"
                 className="text-lg text-gray-500 leading-relaxed hover:underline"
               >
                 Vedi le attività delle stagione 2023/2024
               </Link>
-            </div>
+            </div> */}
           </div>
         </div>
       </Container>

@@ -14,7 +14,7 @@ type Props = {
   allPosts: Post[];
 };
 
-export default function Index({ allPosts}: Props) {
+export default function Index({ allPosts }: Props) {
   const nextActivities = allPosts.slice(0, 2);
   return (
     <>
@@ -42,22 +42,28 @@ export default function Index({ allPosts}: Props) {
               {IS_SEASON_OPEN ? (
                 <LinkButton color="blue" href="/tesseramento" label="È aperto il tesseramento" />
               ) : (
-                <LinkButton color="green" href="/news" label="Attalmente il tesseramento è chiuso, ci vediamo al pranzo sociale!" />
+                <LinkButton
+                  color="green"
+                  href="/news/pranzo-sociale-2025"
+                  label="Attalmente il tesseramento è chiuso, ci vediamo al pranzo sociale!"
+                />
               )}
             </div>
           </div>
           {nextActivities.length > 0 && (
             <MoreStories posts={nextActivities} title="Prossime uscite" />
           )}
-          <div className="mb-16">
-            <Link
-              className="text-blue-600 border-2 border-blue-600 py-2 px-6 focus:outline-none hover:bg-blue-50 rounded text-lg"
-              href="/attivita"
-            >
-              {IS_SEASON_OPEN ? "Vedi tutte le attività" : "Scopri le attività della stagione scorsa"}
-              <FaArrowRight className="inline ml-2" />
-            </Link>
-          </div>
+          {IS_SEASON_OPEN && (
+            <div className="mb-16">
+              <Link
+                className="text-blue-600 border-2 border-blue-600 py-2 px-6 focus:outline-none hover:bg-blue-50 rounded text-lg "
+                href="/attivita"
+              >
+                Vedi tutte le attività
+                <FaArrowRight className="inline ml-2" />
+              </Link>
+            </div>
+          )}
         </Container>
       </Layout>
     </>

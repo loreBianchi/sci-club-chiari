@@ -11,7 +11,7 @@ type Props = {
 const LinkButton = ({ href, label, color = "blue" }: Props) => {
   return (
     <Link
-      className={`text-white bg-${color}-500 border-2 border-${color}-600 py-2 px-6 focus:outline-none hover:bg-${color}-700 rounded text-lg`}
+      className={`text-white bg-${color}-500 border-2 border-${color}-600 p-2 focus:outline-none hover:bg-${color}-700 rounded inline-block text-center break-words whitespace-normal md:w-auto w-3/4 md:text-lg text-sm`}
       href={href}
     >
       {label}
