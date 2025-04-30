@@ -20,7 +20,7 @@ type AttivitaPostProps = {
 
 export default function NewsPost({ attivita }: AttivitaPostProps) {
   const router = useRouter();
-  const title = `${attivita.title} | ${SITE_NAME}`;
+  const title = `${attivita?.title} | ${SITE_NAME}`;
   if (!router.isFallback && !attivita?.slug) {
     return <ErrorPage statusCode={404} />;
   }
