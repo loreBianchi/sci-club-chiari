@@ -1,0 +1,1 @@
+export const IS_SEASON_OPEN = false;

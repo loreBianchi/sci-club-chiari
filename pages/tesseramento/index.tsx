@@ -5,10 +5,11 @@ import Container from "../../components/container";
 import TesseramentoContent from "../../components/tesserramento-content";
 import GaranzieMassimali from "../../components/garanzie-massimali";
 import { ASSISTENZA, INFORTUNI, RESPONSABILITA_CIVILE } from "../../lib/table-data";
+import { IS_SEASON_OPEN } from "../../settings";
 
 export default function Tesseramento() {
   return (
-    <Layout>
+    <Layout hasStickyBanner={!IS_SEASON_OPEN}>
       <Head>
         <title>{`${SITE_NAME} - Tesseramento`}</title>
       </Head>

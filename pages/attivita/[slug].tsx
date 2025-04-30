@@ -19,6 +19,11 @@ type AttivitaPostProps = {
   attivita: AttivitaType;
 };
 
+function isPastActivity(attivita: AttivitaType) {
+  return attivita.date < new Date().toISOString();
+}
+
+
 export default function AttivitaPost({ attivita }: AttivitaPostProps) {
   const router = useRouter();
   const title = `${attivita.title} | ${SITE_NAME}`;
@@ -26,7 +31,7 @@ export default function AttivitaPost({ attivita }: AttivitaPostProps) {
     return <ErrorPage statusCode={404} />;
   }
   return (
-    <Layout hasStickyBanner={Boolean(attivita?.bannerLink)} bannerLink={attivita?.bannerLink}>
+    <Layout hasStickyBanner={Boolean(attivita?.bannerLink && !isPastActivity(attivita))} bannerLink={attivita?.bannerLink}>
       <Container>
         {router.isFallback ? (
           <Loader />

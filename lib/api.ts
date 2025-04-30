@@ -81,6 +81,8 @@ export function getAllNews(fields: string[] = []) {
   const slugs = getNewsSlugs()
   const news = slugs
     .map((slug) => getPostBySlug(slug, fields, newsDirectory))
+    // remove posts with date in the past
+    .filter((post) => post.date >= new Date().toISOString())
     // sort posts by date in ascending order
     .sort((post1, post2) => (post1.date < post2.date ? -1 : 1))
   return news
