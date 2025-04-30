@@ -3,12 +3,11 @@ import MoreStories from "../components/more-stories";
 import Layout from "../components/layout";
 import { getAllFutureActivities } from "../lib/api";
 import Head from "next/head";
-import { SITE_NAME } from "../lib/constants";
+import { SITE_NAME, IS_SEASON_OPEN } from "../lib/constants";
 import Post from "../interfaces/post";
 import Image from "next/image";
 import Link from "next/link";
 import { FaArrowRight } from "react-icons/fa";
-import { IS_SEASON_OPEN } from "../settings";
 import LinkButton from "../components/link-button";
 
 type Props = {

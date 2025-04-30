@@ -1,11 +1,10 @@
 import Head from "next/head";
 import Layout from "../../components/layout";
-import { SITE_NAME } from "../../lib/constants";
+import { SITE_NAME, IS_SEASON_OPEN } from "../../lib/constants";
 import Container from "../../components/container";
 import TesseramentoContent from "../../components/tesserramento-content";
 import GaranzieMassimali from "../../components/garanzie-massimali";
 import { ASSISTENZA, INFORTUNI, RESPONSABILITA_CIVILE } from "../../lib/table-data";
-import { IS_SEASON_OPEN } from "../../settings";
 
 export default function Tesseramento() {
   return (

@@ -1,11 +1,10 @@
 import Head from "next/head";
 import Layout from "../../components/layout";
-import { SITE_NAME } from "../../lib/constants";
+import { SITE_NAME, IS_SEASON_OPEN } from "../../lib/constants";
 import Container from "../../components/container";
 import { getAllFutureActivities, getAllPastActivities } from "../../lib/api";
 import PostPreview from "../../components/post-preview";
 import Link from "next/link";
-import { IS_SEASON_OPEN } from "../../settings";
 
 export default function Attivita({ allActivities: activities, pastActivities }) {
   return (

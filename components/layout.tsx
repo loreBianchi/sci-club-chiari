@@ -1,4 +1,4 @@
-import { IS_SEASON_OPEN } from '../settings'
+import { IS_SEASON_OPEN } from '../lib/constants'
 import Footer from './footer'
 import IscrizioniStickyBanner from './iscrizioni-sticky-banner'
 import Meta from './meta'

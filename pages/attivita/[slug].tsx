@@ -20,7 +20,7 @@ type AttivitaPostProps = {
 };
 
 function isPastActivity(attivita: AttivitaType) {
-  return attivita.date < new Date().toISOString();
+  return attivita?.date < new Date().toISOString();
 }
 
 
