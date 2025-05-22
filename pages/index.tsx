@@ -42,11 +42,9 @@ export default function Index({ allPosts }: Props) {
               {IS_SEASON_OPEN ? (
                 <LinkButton color="blue" href="/tesseramento" label="È aperto il tesseramento" />
               ) : (
-                <LinkButton
-                  color="green"
-                  href="/news/pranzo-sociale-2025"
-                  label="Attalmente il tesseramento è chiuso, ci vediamo al pranzo sociale!"
-                />
+                <h3 className="text-sm sm:text-lg md:text-xl lg:text-2xl text-white drop-shadow-md mb-8 mt-6">
+                  Al momento il tesseramento è chiuso, ci vediamo nella prossima stagione!
+                </h3>
               )}
             </div>
           </div>
