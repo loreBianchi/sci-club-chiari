@@ -28,7 +28,7 @@ const PostPreview = ({
         <CoverImage slug={linkDisabled ? undefined : slug} title={title} src={coverImage} directory={directory} />
       </div>
       <h3 className="text-3xl mb-3 leading-snug">
-        {linkDisabled ? (
+        {!linkDisabled ? (
           <span className="text-gray-500">{title}</span>
         ) : (
           <Link
