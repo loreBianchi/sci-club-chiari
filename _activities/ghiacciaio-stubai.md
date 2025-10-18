@@ -1,6 +1,6 @@
 ---
 title: "STUBAI WEEKEND (AT)"
-excerpt: "29-30 Marzo 2025 Weekend sul ghiacciaio dello Stubai (AT)"
+excerpt: "28-29 Marzo 2026 Weekend sul ghiacciaio dello Stubai (AT)"
 coverImage: '/assets/attivita/cover-5.jpg'
 date: '2025-04-06T05:35:07.322Z'
 ogImage:
@@ -15,14 +15,14 @@ bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5
 
 USCITA RISERVATA AI TESSERATI
 
-La quota di iscrizione è di 120€ e comprende:
+La quota di iscrizione è di 159€ e comprende:
 Pullman a/r e per trasferimenti in loco per raggiungere le località sciistiche;
 Albergo in trattamento di mezza pensione in camera doppia/tripla c/o AlpHotel Innsbruck.
 
 [AlpHotel Innsbruck](https://www.alphotel.com/en/)
 
 I Minorenni possono partecipare unicamente accompagnati da un maggiorenne che ne assume totale
-responsabilità. Iscrizioni aperte dal 18 Ottobre 2024.
+responsabilità. Iscrizioni aperte dal 7 Novembre 2025.
  
 Le iscrizioni sono ritenute valide al saldo della quota gita.
 
