@@ -44,13 +44,13 @@ export default function TesseramentoContent() {
         <div className="space-y-8 lg:grid lg:grid-cols-2 sm:gap-4 xl:gap-10 lg:space-y-0">
           <TesseramentoCard
             title="TESSERAMENTO BASE"
-            price={"15 €"}
+            price={"20 €"}
             classNames="bg-blue-100 border-blue-500"
             icon={<FaAward className="ml-2 inline" />}
           >
             <>
               <p className="mt-1 text-base leading-7 text-slate-700">
-                Per la stagione invernale 2024/2025 il costo è di 15€
+                Per la stagione invernale 2025/2026 il costo è di 20€
                 comprensivo di iscrizione allo Sci Club e di Assicurazione
                 obbligatoria. L’iscrizione può essere effettuata direttamente in
                 sede o tramite il link presente in questa pagina.
@@ -88,14 +88,14 @@ export default function TesseramentoContent() {
           </TesseramentoCard>
           <TesseramentoCard
             title="TESSERAMENTO PREMIUM"
-            price={"30 €"}
+            price={"40 €"}
             classNames="bg-green-100 border-green-500"
             subTitle="SCI SICURO"
             icon={<FaCrown className="ml-2 inline" />}
           >
             <>
               <p className="mt-1 text-base leading-7 text-slate-700">
-                Per la stagione invernale 2024/2025 il costo è di 30€
+                Per la stagione invernale 2025/2026 il costo è di 40€
                 comprensivo di iscrizione allo Sci Club e di Assicurazione
                 obbligatoria. L’iscrizione può essere effettuata direttamente in
                 sede o tramite il link presente in questa pagina.
