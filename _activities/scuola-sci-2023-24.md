@@ -16,6 +16,8 @@ ISCRIZIONE RISERVATA AI TESSERATI
 
 PER PARTECIPARE ALLA SCUOLA SCI è NECESSARIO SOTTOSCRIVERE IL TESSERAMENTO PREMIUM - SCI SCICURO
 
+L'ISCRIZONE SI RITIENE VALIDA AL SALDO DELLA QUOTA
+
 Il corso di sci è rivolto a tutti coloro che hanno un'età di almeno 6 anni compiuti.
 Corso Sci-Snowboard al Passo dell'Aprica.
 Tre domeniche sulla neve per approcciarsi alle nobili arti dello Sci e dello Snowboard nel comprensorio del Passo dell'Aprica, accompaganti e guidati dai maestri della Scuola Nazionale Sci e Snowboard.
