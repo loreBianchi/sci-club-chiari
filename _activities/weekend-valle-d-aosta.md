@@ -26,8 +26,11 @@ Albergo in trattamento di mezza pensione in camera doppia/tripla c/o Hotel Beau 
 Tra le possibili mete:
 
 [LA THUILE](https://www.lathuile.it/it/piste-impianti)
+
 [COURMAYEUR](https://www.courmayeur-montblanc.com/)
+
 [PILA](https://pila.it/)
+
 [MONTE ROSA SKI](https://monterosaski.eu/)
 
 I Minorenni possono partecipare unicamente accompagnati da un maggiorenne che ne assume totale
