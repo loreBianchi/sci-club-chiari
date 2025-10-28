@@ -1,6 +1,6 @@
 ---
 title: "VALLE D'AOSTA - WEEKEND"
-excerpt: "8-9 Febbraio 2025 Week-end sulle nevi della Valle d'Aosta"
+excerpt: "7-8 Febbraio 2026 Week-end sulle nevi della Valle d'Aosta"
 coverImage: '/assets/attivita/cover-2.jpg'
 date: '2025-02-10T05:35:07.322Z'
 ogImage:
@@ -8,13 +8,13 @@ ogImage:
 bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=dd546ac2-1127-42dd-8b8e-1f8e5069aecb'
 ---
 
-8-9 Febbraio 2025 Week-end sulle nevi della Valle d'Aosta
+7-8 Febbraio 2026 Week-end sulle nevi della Valle d'Aosta
 
 ## Quote
 
 USCITA RISERVATA AI TESSERATI
 
-La quota di iscrizione è di 110€ e comprende:
+La quota di iscrizione è di 139€ e comprende:
 Pullman a/r e per trasferimenti in loco per raggiungere le località sciistiche;
 Albergo in trattamento di mezza pensione in camera doppia/tripla c/o Hotel Beau Sejour ad Arvier.
 
@@ -36,5 +36,5 @@ Informazioni 3663005802
 - La quota comprende il viaggio in pullman GT ed il soggiorno, con sistemazione in camera doppia/tripla, a mezza pensione (cena, pernottamento e prima colazione)  
 - La quota non comprende le bevande, gli ski-pass, gli extra di carattere personale e quanto non espressamente specificato.  
 - In tutti i week-end organizzati dallo Sci Club Chiari è offerta ai Tesserati l’opportunità di acquistare gli ski-pass ai vantaggiosi prezzi riservati ai gruppi
-- Le iscrizioni ai week-end della Stagione Invernale 2024/2025 si possono effettuare in sede a partire da venerdì 18 Ottobre 2024 e successivamente tutti i giovedì oppure tramite apposito link presente in questa pagina.  
+- Le iscrizioni ai week-end della Stagione Invernale 2025/2026 si possono effettuare in sede a partire da venerdì 7 Novembre 2025 e successivamente tutti i giovedì oppure tramite apposito link presente in questa pagina.  
 - L’iscrizione viene accettata esclusivamente previo il pagamento dell’intera quota prevista per il week-end; per politiche interne non vengono accettate prenotazioni e/o caparre.
