@@ -15,7 +15,7 @@ bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5
 
 USCITA RISERVATA AI TESSERATI
 
-L'ISCRIZIONE SI RITIENE VALIDA SOLO AL PAGAMENTO DELLA QUOTA
+L'ISCRIZIONE SI RITIENE VALIDA AL PAGAMENTO DELLA QUOTA
 
 La quota di iscrizione è di 249€ e comprende:
 Pullman a/r e per trasferimenti in loco per raggiungere le località sciistiche;
