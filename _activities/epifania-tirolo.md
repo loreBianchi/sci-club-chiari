@@ -27,6 +27,16 @@ Albergo in trattamento di mezza pensione in camera doppia/tripla c/o AlpHotel In
 
 [AlpHotel Innsbruck](https://www.alphotel.com/en/)
 
+
+Tra le possibili mete:
+
+[SEEFELD](https://www.seefeld.com/en/skiing.html)
+[ISCHGL](https://www.ischgl.com/en/winter/silvretta-arena)
+[SERFAUS](https://www.serfaus-fiss-ladis.at/it/vacanza-invernale)
+[KALTENBACH](https://www.hochzillertal.com/en/ski-region/piste-panorama)
+[ZILLERTAL ARENA](https://www.zillertalarena.com/winter/)
+[MAYRHOFEN](https://www.mayrhofen.at/en/stories/skiing-snowboarding)
+
 I Minorenni possono partecipare unicamente accompagnati da un maggiorenne che ne assume totale
 responsabilità. Iscrizioni aperte dal 7 Novembre 2025.
  
