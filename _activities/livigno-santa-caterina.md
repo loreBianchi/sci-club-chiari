@@ -1,6 +1,6 @@
 ---
 title: 'LAAX - FLIMS'
-excerpt: "28 Febbraio - 1 Marzo 2026 Weekend a Laax-FLims"
+excerpt: "28 Febbraio - 1 Marzo 2026 Weekend a Laax-FLims (SUI)"
 coverImage: '/assets/attivita/cover-4.jpg'
 date: '2025-03-11T05:35:07.322Z'
 ogImage:
