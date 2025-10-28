@@ -1,6 +1,6 @@
 ---
 title: 'SCUOLA SCI - SNOW APRICA'
-excerpt: '12-19-26 Gennaio 2025 Scuola Sci Aprica.'
+excerpt: '11-18-25 Gennaio 2026 Scuola Sci Aprica.'
 coverImage: '/assets/attivita/cover-3.jpg'
 date: '2025-01-14T05:35:07.322Z'
 ogImage:
@@ -8,9 +8,9 @@ ogImage:
 bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=2660af1a-61f9-433f-8337-91647cdaf22f'
 ---
 
-12-19-26 Gennaio 2025, Corso Sci-Snowboard al Passo dell'Aprica.
+11-18-25 Gennaio 2026, Corso Sci-Snowboard al Passo dell'Aprica.
 
-#### QUOTE:
+#### PER CHI VUOLE IMPARARE LA NOBILE ARTE DELLO SCI o DELLO SNOWBOARD:)
 
 ISCRIZIONE RISERVATA AI TESSERATI
 
@@ -24,8 +24,8 @@ Tre domeniche sulla neve per approcciarsi alle nobili arti dello Sci e dello Sno
 
 [SCUOLA SCI APRICA](https://www.apricasci.com)
 
-La quota di iscrizione per i nati negli anni 2009-2018 è di 225€.
-La quota di iscrizione per i nati prima del 2009 (2008 e precedenti) è di 250€.
+La quota di iscrizione per i nati negli anni 2010-2019 è di 235€ (200€ nel caso di utilizzo di mezzi propri).
+La quota di iscrizione per i nati prima del 2010 (2009 e precedenti) è di 265€ (230€ nel caso di utilizzo di mezzi propri).
 
  
 Le iscrizioni sono ritenute valide al saldo della quota.
@@ -39,6 +39,6 @@ Informazioni 3663005802
 - La partenza è fissata per le 7.00 (ritrovo alle 6.45) dal parcheggio di Via LANCINI di Chiari (parcheggio dell’Istituto Comprensivo Mellini).  
 - La quota comprende il viaggio in pullman GT ed il soggiorno, 3 skipass e 12 ore di lezione totali (4 ore per ogni domenica dalle 11:00 alle 13:00 e dalle 14:00 alle 16:00).
 - La quota non comprende gli extra di carattere personale e quanto non espressamente specificato.  
-- Le iscrizioni al corso di sci-snowboard della Stagione Invernale 2024/2025 si possono effettuare in sede a partire da sabato 18 Ottobre 2024 e successivamente in sede ogni giovedì oppure tramite il link che trovate in questa pagina.
+- Le iscrizioni al corso di sci-snowboard della Stagione Invernale 2025/2026 si possono effettuare in sede a partire da sabato 7 Novembre 2025 e successivamente in sede ogni giovedì oppure tramite il link che trovate in questa pagina.
 - L’iscrizione viene accettata esclusivamente previo il pagamento dell’intera quota prevista per il corso; per politiche interne non vengono accettate prenotazioni e/o caparre.
 - Possibilità noleggio attrezzatura direttamente in loco con attività convenzionata Sci Club Chiari.
