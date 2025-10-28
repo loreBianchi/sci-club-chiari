@@ -10,7 +10,7 @@ bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5
 
 28-29 Marzo 2026 sul ghiacciaio dello Stubai (AT)
 
-## Quote
+## Un Classico che non passa mai di moda! IMPERDIBILE!
 
 
 USCITA RISERVATA AI TESSERATI
