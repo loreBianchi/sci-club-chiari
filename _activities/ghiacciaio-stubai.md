@@ -8,7 +8,7 @@ ogImage:
 bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=942bc23c-ae5e-44cf-bb3d-498e688b27c7'
 ---
 
-29-30 Marzo 2025 sul ghiacciaio dello Stubai (AT)
+28-29 Marzo 2026 sul ghiacciaio dello Stubai (AT)
 
 ## Quote
 
