@@ -10,7 +10,7 @@ bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5
 
 7-8 Febbraio 2026 Week-end sulle nevi della Valle d'Aosta
 
-## Quote
+## AL COSPETTO DEI 4000
 
 USCITA RISERVATA AI TESSERATI
 
