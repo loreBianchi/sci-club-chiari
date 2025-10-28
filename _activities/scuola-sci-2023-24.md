@@ -10,7 +10,7 @@ bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5
 
 11-18-25 Gennaio 2026, Corso Sci-Snowboard al Passo dell'Aprica.
 
-#### PER CHI VUOLE IMPARARE LA NOBILE ARTE DELLO SCI o DELLO SNOWBOARD:)
+## PER CHI VUOLE IMPARARE LA NOBILE ARTE DELLO SCI o DELLO SNOWBOARD:)
 
 ISCRIZIONE RISERVATA AI TESSERATI
 
