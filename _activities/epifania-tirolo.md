@@ -10,10 +10,6 @@ bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5
 
 4-5-6 Gennaio 2025, soggiorno a Innsbruck in hotel 4 stelle con SPA.
 
-USCITA RISERVATA AI TESSERATI
-
-
-
 ## TIROLER ALPEN!!! 
 
 
@@ -31,10 +27,16 @@ Albergo in trattamento di mezza pensione in camera doppia/tripla c/o AlpHotel In
 Tra le possibili mete:
 
 [SEEFELD](https://www.seefeld.com/en/skiing.html)
+
 [ISCHGL](https://www.ischgl.com/en/winter/silvretta-arena)
+
+
 [SERFAUS](https://www.serfaus-fiss-ladis.at/it/vacanza-invernale)
+
 [KALTENBACH](https://www.hochzillertal.com/en/ski-region/piste-panorama)
+
 [ZILLERTAL ARENA](https://www.zillertalarena.com/winter/)
+
 [MAYRHOFEN](https://www.mayrhofen.at/en/stories/skiing-snowboarding)
 
 I Minorenni possono partecipare unicamente accompagnati da un maggiorenne che ne assume totale
