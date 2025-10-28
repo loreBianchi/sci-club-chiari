@@ -21,7 +21,7 @@ Albergo in trattamento di mezza pensione in camera doppia/tripla c/o Hotel Beau 
 [Hotel Beau Sejour](https://www.beausejourhotel.com)
 
 I Minorenni possono partecipare unicamente accompagnati da un maggiorenne che ne assume totale
-responsabilità. Iscrizioni aperte dal 18 Ottobre.
+responsabilità. Iscrizioni aperte dal 7 Novembre.
  
 Le iscrizioni sono ritenute valide al saldo della quota gita.
 
