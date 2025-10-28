@@ -14,11 +14,21 @@ bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5
 
 USCITA RISERVATA AI TESSERATI
 
+L'ISCRIZIONE SI RITIENE VALIDA AL SALDO DELLA QUOTA
+
+
 La quota di iscrizione è di 139€ e comprende:
 Pullman a/r e per trasferimenti in loco per raggiungere le località sciistiche;
 Albergo in trattamento di mezza pensione in camera doppia/tripla c/o Hotel Beau Sejour ad Arvier.
 
 [Hotel Beau Sejour](https://www.beausejourhotel.com)
+
+Tra le possibili mete:
+
+[LA THUILE](https://www.lathuile.it/it/piste-impianti)
+[COURMAYEUR](https://www.courmayeur-montblanc.com/)
+[PILA](https://pila.it/)
+[MONTE ROSA SKI](https://monterosaski.eu/)
 
 I Minorenni possono partecipare unicamente accompagnati da un maggiorenne che ne assume totale
 responsabilità. Iscrizioni aperte dal 7 Novembre.
