@@ -1,6 +1,6 @@
 ---
-title: 'VAL SENALES WEEKEND - Prima neve'
-excerpt: '7-8 Dicembre PRIMA NEVE!! Week-end in Val Senales'
+title: 'CORVATSCH (SUI) - Prima neve'
+excerpt: '6 Dicembre PRIMA NEVE!! Uscita di un giorno in Engadina'
 coverImage: '/assets/attivita/cover-1.jpg'
 date: '2024-12-25T05:35:07.322Z'
 ogImage:
