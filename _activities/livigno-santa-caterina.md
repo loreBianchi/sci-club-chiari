@@ -8,7 +8,7 @@ ogImage:
 bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=3569055e-e717-44db-a890-44e3a5b2f468'  
 ---
 
-28 Febbraio - 1 Marzo weekend a Laax-Flims
+28 Febbraio - 1 Marzo 2026 weekend a Laax-Flims
 
 ## Quote
 
