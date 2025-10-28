@@ -10,7 +10,7 @@ bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5
 
 28 Febbraio - 1 Marzo 2026 weekend a Laax-Flims
 
-## Quote
+## NEW! NEW! NEW!
 
 USCITA RISERVATA AI TESSERATI
 
