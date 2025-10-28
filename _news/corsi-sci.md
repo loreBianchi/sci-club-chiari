@@ -1,7 +1,7 @@
 ---
 title: "Corso di Sci Snowboard Passo Aprica Gennaio 2026"
 excerpt: "La sede apre al pubblico venerdì 7/11/2025 alle 20.00."
-date: '2026-01-12T05:35:07.322Z'
+date: '2026-01-11T05:35:07.322Z'
 ---
 
 Anche quest'anno siamo lieti di informarv iche ripartono i corsi di Sci e Snowboard c/o il Passo dell'Aprica.
