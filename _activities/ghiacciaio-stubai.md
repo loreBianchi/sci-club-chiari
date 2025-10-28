@@ -23,6 +23,8 @@ Albergo in trattamento di mezza pensione in camera doppia/tripla c/o AlpHotel In
 
 [AlpHotel Innsbruck](https://www.alphotel.com/en/)
 
+[STUBAIER GLETSCHER WEBSITE](https://www.stubaier-gletscher.com/it/)
+
 I Minorenni possono partecipare unicamente accompagnati da un maggiorenne che ne assume totale
 responsabilità. Iscrizioni aperte dal 7 Novembre 2025.
  
