@@ -14,6 +14,7 @@ bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5
 
 
 USCITA RISERVATA AI TESSERATI
+
 L'ISCRIZIONE SI RITIENE VALIDA SOLO AL PAGAMENTO DELLA QUOTA
 
 La quota di iscrizione è di 159€ e comprende:
