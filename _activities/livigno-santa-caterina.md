@@ -1,6 +1,6 @@
 ---
-title: 'LIVIGNO - SANTA CATERINA WEEKEND'
-excerpt: "1-2 Marzo 2025 Weekend a Livigno e Santa Caterina"
+title: 'LAAX - FLIMS'
+excerpt: "28 Febbraio - 1 Marzo 2026 Weekend a Laax-FLims"
 coverImage: '/assets/attivita/cover-4.jpg'
 date: '2025-03-11T05:35:07.322Z'
 ogImage:
@@ -8,20 +8,25 @@ ogImage:
 bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=3569055e-e717-44db-a890-44e3a5b2f468'  
 ---
 
-1-2 Marzo weekend a Livigno e Santa Caterina
+28 Febbraio - 1 Marzo weekend a Laax-Flims
 
 ## Quote
 
 USCITA RISERVATA AI TESSERATI
+L'ISCRIZIONE SI RITIENE VALIDA AL SALDO DELLA QUOTA
 
-La quota di iscrizione è di 120€ e comprende:
+La quota di iscrizione è di 169€ e comprende:
 Pullman a/r e per trasferimenti in loco per raggiungere le località sciistiche;
-Albergo in trattamento di mezza pensione in camera doppia/tripla c/o Hotel Genzianella S. Caterina Valfurva (affacciato sulla Pista Deborah Compagnoni).
+Albergo in trattamento di mezza pensione in camera doppia/tripla c/o Hotel Lindenhof Churwalden.
 
-[Hotel Genzianella](https://www.hotelgenzianella.com)
+Skipass superscontati!!!!
+
+[LAAX SKI MAP](https://www.skiresort.it/comprensorio-sciistico/laaxflimsfalera/mappa-piste/)
+
+[Hotel Lindenhof Churwalden](https://www.lindenhofchurwalden.ch/)
 
 I Minorenni possono partecipare unicamente accompagnati da un maggiorenne che ne assume totale
-responsabilità. Iscrizioni aperte dal 18 Ottobre 2024.
+responsabilità. Iscrizioni aperte dal 7 Novembre 2025.
  
 Le iscrizioni sono ritenute valide al saldo della quota gita.
 
