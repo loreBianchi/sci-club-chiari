@@ -14,7 +14,7 @@ bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5
 
 ISCRIZIONE RISERVATA AI TESSERATI
 
-PER PARTECIPARE ALLA SCUOLA SCI è NECESSARIO SOTTOSCRIVERE IL TESSERAMENTO PREMIUM - SCI SCICURO
+PER PARTECIPARE ALLA SCUOLA SCI è NECESSARIO SOTTOSCRIVERE IL TESSERAMENTO PREMIUM - SCI SICURO
 
 Il corso di sci è rivolto a tutti coloro che hanno un'età di almeno 6 anni compiuti.
 Corso Sci-Snowboard al Passo dell'Aprica.
