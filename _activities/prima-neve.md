@@ -14,3 +14,8 @@ ISCRIZIONE RISERVATA AI TESSERATI
 
 ## USCITA CON MEZZI PROPRI
 
+Uscita con mezzi propri presso il comprensorio del Corvatsch (Sankt Moritz).
+Prezzo skipass riservato tesserati Sci CLub Chiari 55€ adulti - giovani (13/17 anni) 40€ - bambini (6/12 anni) 20€ , da saldare in loco.
+
+Ritrovo ore 5.00 parcheggio via Lancini e partenza con mezzi propri alle ore 5.30.
+
