@@ -1,6 +1,6 @@
 ---
 title: "Serata di apertura"
-excerpt: "Aperitivo Venerdì 7/11/2025 alle 20.00."
+excerpt: "Aperitivo Venerdì 7/11/2025 alle 20.00. Successivamente ci troverete tutti i giovedì dalle 21.00"
 date: '2025-11-07T05:35:07.322Z'
 ---
 
