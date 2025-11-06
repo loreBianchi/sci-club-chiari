@@ -2,7 +2,7 @@
 title: 'SCUOLA SCI - SNOW APRICA'
 excerpt: '11-18-25 Gennaio 2026 Scuola Sci Aprica.'
 coverImage: '/assets/attivita/cover-3.jpg'
-date: '2026-01-14T05:35:07.322Z'
+date: '2025-01-14T05:35:07.322Z'
 ogImage:
   url: '/assets/attivita/cover-3.jpg'
 bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=1f4029db-2a62-4194-8687-5b19c72e164a&noback=true'
