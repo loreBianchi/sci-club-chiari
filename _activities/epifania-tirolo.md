@@ -5,7 +5,7 @@ coverImage: '/assets/attivita/cover-3.jpg'
 date: '2025-01-05T05:35:07.322Z'
 ogImage:
   url: '/assets/attivita/cover-3.jpg'
-bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=984b8868-3d3b-4089-91ef-b178104c8d61'
+bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=a6c0cdfe-a431-40f2-ab9c-e8888e916d52&noback=true'
 ---
 
 4-5-6 Gennaio 2025, soggiorno a Innsbruck in hotel 4 stelle con SPA.
