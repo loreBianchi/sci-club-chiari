@@ -5,7 +5,7 @@ coverImage: '/assets/attivita/cover-2.jpg'
 date: '2025-02-10T05:35:07.322Z'
 ogImage:
   url: '/assets/attivita/cover-2.jpg'
-bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=dd546ac2-1127-42dd-8b8e-1f8e5069aecb'
+bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=96984de7-3fa5-4524-840b-9222acfb0a76&noback=true'
 ---
 
 7-8 Febbraio 2026 Week-end sulle nevi della Valle d'Aosta
