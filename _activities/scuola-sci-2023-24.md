@@ -2,10 +2,10 @@
 title: 'SCUOLA SCI - SNOW APRICA'
 excerpt: '11-18-25 Gennaio 2026 Scuola Sci Aprica.'
 coverImage: '/assets/attivita/cover-3.jpg'
-date: '2025-01-14T05:35:07.322Z'
+date: '2026-01-14T05:35:07.322Z'
 ogImage:
   url: '/assets/attivita/cover-3.jpg'
-bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=2660af1a-61f9-433f-8337-91647cdaf22f'
+bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=1f4029db-2a62-4194-8687-5b19c72e164a&noback=true'
 ---
 
 11-18-25 Gennaio 2026, Corso Sci-Snowboard al Passo dell'Aprica.
