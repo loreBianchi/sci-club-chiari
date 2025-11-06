@@ -5,7 +5,7 @@ coverImage: '/assets/attivita/cover-5.jpg'
 date: '2025-04-06T05:35:07.322Z'
 ogImage:
   url: '/assets/attivita/cover-5.jpg'
-bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=942bc23c-ae5e-44cf-bb3d-498e688b27c7'
+bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=36fcccfa-23e2-4d3e-8236-7a767e7b4787&noback=true'
 ---
 
 28-29 Marzo 2026 sul ghiacciaio dello Stubai (AT)
