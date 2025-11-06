@@ -1,11 +1,11 @@
 ---
 title: 'LAAX - FLIMS'
-excerpt: "28 Febbraio - 1 Marzo 2026 Weekend a Laax-FLims (SUI)"
+excerpt: "28 Febbraio - 1 Marzo 2026 Weekend a Laax-Flims (SUI)"
 coverImage: '/assets/attivita/cover-4.jpg'
 date: '2025-03-11T05:35:07.322Z'
 ogImage:
   url: '/assets/attivita/cover-4.jpg'
-bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=3569055e-e717-44db-a890-44e3a5b2f468'  
+bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=a495d189-dc5b-4cfc-8b20-f5a1d1f1c516&noback=true'  
 ---
 
 28 Febbraio - 1 Marzo 2026 weekend a Laax-Flims
