@@ -2,7 +2,7 @@
 title: 'CORVATSCH (SUI) - Prima neve'
 excerpt: '6 Dicembre PRIMA NEVE!! Uscita di un giorno in Engadina'
 coverImage: '/assets/attivita/cover-1.jpg'
-date: '2024-12-25T05:35:07.322Z'
+date: '2026-12-25T05:35:07.322Z'
 ogImage:
   url: '/assets/attivita/cover-1.jpg'
 bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=e2fe4402-253b-4218-ab84-3a41508840fb&noback=true'
