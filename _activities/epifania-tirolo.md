@@ -1,7 +1,7 @@
 ---
 title: 'TIROLO - WEEKEND NUOVO ANNO'
 excerpt: '4-5-6 Gennaio 2026 Weekend in Tirolo (AT)'
-coverImage: '/assets/attivita/cover-3.jpg'
+coverImage: '/assets/attivita/cover-7.jpg'
 date: '2026-01-05T05:35:07.322Z'
 ogImage:
   url: '/assets/attivita/cover-7.jpg'
