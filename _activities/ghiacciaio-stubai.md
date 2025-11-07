@@ -1,7 +1,7 @@
 ---
 title: "STUBAI WEEKEND (AT)"
 excerpt: "28-29 Marzo 2026 Weekend sul ghiacciaio dello Stubai (AT)"
-coverImage: '/assets/attivita/cover-5.jpg'
+coverImage: '/assets/attivita/cover-6.jpg'
 date: '2026-04-06T05:35:07.322Z'
 ogImage:
   url: '/assets/attivita/cover-6.jpg'
