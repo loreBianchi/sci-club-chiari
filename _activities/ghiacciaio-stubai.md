@@ -2,7 +2,7 @@
 title: "STUBAI WEEKEND (AT)"
 excerpt: "28-29 Marzo 2026 Weekend sul ghiacciaio dello Stubai (AT)"
 coverImage: '/assets/attivita/cover-5.jpg'
-date: '2025-04-06T05:35:07.322Z'
+date: '2026-04-06T05:35:07.322Z'
 ogImage:
   url: '/assets/attivita/cover-5.jpg'
 bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=36fcccfa-23e2-4d3e-8236-7a767e7b4787&noback=true'
