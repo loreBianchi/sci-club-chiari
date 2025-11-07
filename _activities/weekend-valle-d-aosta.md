@@ -2,7 +2,7 @@
 title: "VALLE D'AOSTA - WEEKEND"
 excerpt: "7-8 Febbraio 2026 Week-end sulle nevi della Valle d'Aosta"
 coverImage: '/assets/attivita/cover-2.jpg'
-date: '2025-02-10T05:35:07.322Z'
+date: '2026-02-10T05:35:07.322Z'
 ogImage:
   url: '/assets/attivita/cover-2.jpg'
 bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=96984de7-3fa5-4524-840b-9222acfb0a76&noback=true'
