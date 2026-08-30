@@ -1,0 +1,74 @@
+backend:
+  name: github
+  repo: loreBianchi/sci-club-chiari
+  branch: main
+  base_url: https://REPLACE-WITH-PRODUCTION-DOMAIN
+  auth_endpoint: api/auth
+
+media_folder: "public/assets/attivita"
+public_folder: "/assets/attivita"
+
+collections:
+  - name: "activities"
+    label: "Attività"
+    folder: "_activities"
+    create: true
+    delete: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Titolo", name: "title", widget: "string" }
+      - { label: "Estratto", name: "excerpt", widget: "text" }
+      - {
+          label: "Immagine di copertina",
+          name: "coverImage",
+          widget: "image",
+          media_folder: "/public/assets/attivita",
+          public_folder: "/assets/attivita",
+        }
+      - {
+          label: "Data",
+          name: "date",
+          widget: "datetime",
+          format: "YYYY-MM-DDTHH:mm:ss.SSS[Z]",
+          picker_utc: true,
+        }
+      - label: "Immagine OG"
+        name: "ogImage"
+        widget: "object"
+        fields:
+          - {
+              label: "URL",
+              name: "url",
+              widget: "image",
+              media_folder: "/public/assets/attivita",
+              public_folder: "/assets/attivita",
+            }
+      - {
+          label: "Link iscrizione (banner)",
+          name: "bannerLink",
+          widget: "string",
+          required: false,
+        }
+      - { label: "Corpo", name: "body", widget: "markdown" }
+
+  - name: "news"
+    label: "News"
+    folder: "_news"
+    create: true
+    delete: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Titolo", name: "title", widget: "string" }
+      - { label: "Estratto", name: "excerpt", widget: "text" }
+      - {
+          label: "Data",
+          name: "date",
+          widget: "datetime",
+          format: "YYYY-MM-DDTHH:mm:ss.SSS[Z]",
+          picker_utc: true,
+        }
+      - { label: "Corpo", name: "body", widget: "markdown" }
