@@ -1,19 +1,38 @@
 import Link from "next/link";
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 
 const Navbar = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const navRef = useRef<HTMLDivElement>(null);
 
   const toogleMobileMunu = () => {
     setIsMobileMenuOpen(!isMobileMenuOpen);
   };
 
+  useEffect(() => {
+    const nav = navRef.current;
+    if (!nav) return;
+
+    const updateHeight = () => {
+      document.documentElement.style.setProperty(
+        "--navbar-height",
+        `${nav.offsetHeight}px`
+      );
+    };
+
+    updateHeight();
+    const resizeObserver = new ResizeObserver(updateHeight);
+    resizeObserver.observe(nav);
+
+    return () => resizeObserver.disconnect();
+  }, []);
+
   return (
     <>
       <div
-        className="w-full sticky top-0 text-gray-700 bg-white"
-        style={{ zIndex: 10000 }}
+        ref={navRef}
+        className="w-full sticky top-0 z-navbar text-gray-700 bg-white"
       >
         <div className="flex flex-col px-2 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
           <div className="p-4 flex flex-row items-center justify-between">
@@ -53,36 +72,37 @@ const Navbar = () => {
           </nav>
         </div>
       </div>
-      {isMobileMenuOpen && (
-        <>
-          <div
-            className="fixed w-full transition-opacity ease-linear duration-300 bg-white opacity-100 flex flex-col justify-center items-center py-5"
-            onClick={() => setIsMobileMenuOpen(false)}
-            style={{ zIndex: 10000 }}
-          >
-            <Link className="px-3 py-2" href="/sci-club">
-              Sci club
-            </Link>
-            <Link className="px-3 py-2" href="/tesseramento">
-              Tesseramento
-            </Link>
-            <Link className="px-3 py-2" href="/attivita">
-              Attività
-            </Link>
-            <Link className="px-3 py-2" href="/news">
-              News
-            </Link>
-            <Link className="px-3 py-2" href="/contatti">
-              Contatti
-            </Link>
-          </div>
-          <div
-            className="fixed inset-0 bg-black opacity-50 z-40"
-            onClick={() => setIsMobileMenuOpen(false)}
-            style={{ zIndex: 1500 }}
-          />
-        </>
-      )}
+      <div
+        className={`fixed inset-x-0 z-navbar transition-all duration-300 ease-in-out bg-white flex flex-col justify-center items-center py-5 ${
+          isMobileMenuOpen
+            ? "opacity-100 translate-y-0"
+            : "opacity-0 -translate-y-4 pointer-events-none"
+        }`}
+        style={{ top: "var(--navbar-height, 96px)" }}
+        onClick={() => setIsMobileMenuOpen(false)}
+      >
+        <Link className="px-3 py-2" href="/sci-club">
+          Sci club
+        </Link>
+        <Link className="px-3 py-2" href="/tesseramento">
+          Tesseramento
+        </Link>
+        <Link className="px-3 py-2" href="/attivita">
+          Attività
+        </Link>
+        <Link className="px-3 py-2" href="/news">
+          News
+        </Link>
+        <Link className="px-3 py-2" href="/contatti">
+          Contatti
+        </Link>
+      </div>
+      <div
+        className={`fixed inset-0 z-overlay bg-black transition-opacity duration-300 ease-in-out ${
+          isMobileMenuOpen ? "opacity-50" : "opacity-0 pointer-events-none"
+        }`}
+        onClick={() => setIsMobileMenuOpen(false)}
+      />
     </>
   );
 };

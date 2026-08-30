@@ -4,7 +4,10 @@ type Props = {
 
 const IscrizioniStickyBanner = ({ bannerLink }: Props) => {
   return (
-    <div className="bg-green-500 text-white text-center py-2 sticky top-[96px]">
+    <div
+      className="bg-green-500 text-white text-center py-2 sticky"
+      style={{ top: "var(--navbar-height, 96px)" }}
+    >
       <p>
         <strong>🚨 ATTENZIONE 🚨</strong> le iscrizioni sono aperte!{" "}
         <a

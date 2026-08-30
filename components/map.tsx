@@ -21,7 +21,7 @@ export default function Map(props: MapProps) {
           center={position}
           zoom={zoom}
           scrollWheelZoom={false}
-          style={{ height: 500, width: "100%" }}
+          className="h-64 sm:h-96 md:h-[500px] w-full"
         >
           <TileLayer
             attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'

@@ -23,7 +23,7 @@ export default function Index({ allPosts }: Props) {
           <title>{`${SITE_NAME} - Home Page`}</title>
         </Head>
         <Container>
-          <div className="mb-8 md:mb-16 mt-4 relative">
+          <div className="mb-8 md:mb-16 mt-4 relative min-h-[280px] sm:min-h-[360px] md:min-h-[480px]">
             <Image
               src="/assets/home/cover-sciclub.jpg"
               alt="home page image"
