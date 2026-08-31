@@ -40,7 +40,9 @@ export function getPostBySlug(
     }
 
     if (typeof data[field] !== "undefined") {
-      items[field] = data[field];
+      // gray-matter (js-yaml) parses unquoted ISO date-like scalars as
+      // native Date objects, which Next.js can't serialize as JSON props.
+      items[field] = data[field] instanceof Date ? data[field].toISOString() : data[field];
     }
   });
 
