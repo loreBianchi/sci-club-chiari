@@ -9,6 +9,44 @@ media_folder: "public/assets/attivita"
 public_folder: "/assets/attivita"
 
 collections:
+  - name: "settings"
+    label: "Impostazioni sito"
+    files:
+      - name: "general"
+        label: "Generali"
+        file: "content/settings.json"
+        fields:
+          - {
+              label: "Tesseramento aperto",
+              name: "isSeasonOpen",
+              widget: "boolean",
+              hint: "Mostra banner e CTA di iscrizione sul sito",
+            }
+          - {
+              label: "Stagione corrente",
+              name: "currentSeason",
+              widget: "string",
+              hint: "Formato: 2025/26",
+            }
+          - {
+              label: "Prezzo Tesseramento Base (€)",
+              name: "priceBase",
+              widget: "number",
+              value_type: "int",
+            }
+          - {
+              label: "Prezzo Tesseramento Premium (€)",
+              name: "pricePremium",
+              widget: "number",
+              value_type: "int",
+            }
+          - {
+              label: "Scadenza polizza assicurativa Premium",
+              name: "policyExpiryDate",
+              widget: "string",
+              hint: "Formato: 31/08/2026",
+            }
+
   - name: "activities"
     label: "Attività"
     folder: "_activities"

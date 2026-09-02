@@ -1,5 +1,11 @@
 import TesseramentoCard from "./tesseramento-card";
 import { FaAward, FaCrown } from "react-icons/fa";
+import {
+  CURRENT_SEASON,
+  TESSERAMENTO_BASE_PRICE,
+  TESSERAMENTO_PREMIUM_PRICE,
+  TESSERAMENTO_POLICY_EXPIRY,
+} from "../lib/constants";
 
 export default function TesseramentoContent() {
   return (
@@ -38,20 +44,21 @@ export default function TesseramentoContent() {
       </div>
       <div className="mt-10">
         <p className="mt-1 text-xl leading-7 text-slate-700 mb-8 text-center">
-          Per la stagione 2025/26 abbiamo previsto due possibilità di
+          Per la stagione {CURRENT_SEASON} abbiamo previsto due possibilità di
           tesseramento.
         </p>
         <div className="space-y-8 lg:grid lg:grid-cols-2 sm:gap-4 xl:gap-10 lg:space-y-0">
           <TesseramentoCard
             title="TESSERAMENTO BASE"
-            price={"20 €"}
+            price={`${TESSERAMENTO_BASE_PRICE} €`}
             classNames="bg-blue-100 border-blue-500"
             icon={<FaAward className="ml-2 inline" />}
           >
             <>
               <p className="mt-1 text-base leading-7 text-slate-700">
-                Per la stagione invernale 2025/2026 il costo è di 20€
-                comprensivo di iscrizione allo Sci Club e di Assicurazione
+                Per la stagione invernale {CURRENT_SEASON} il costo è di{" "}
+                {TESSERAMENTO_BASE_PRICE}€ comprensivo di iscrizione allo Sci
+                Club e di Assicurazione
                 obbligatoria. L’iscrizione può essere effettuata direttamente in
                 sede o tramite il link presente in questa pagina.
               </p>
@@ -88,15 +95,16 @@ export default function TesseramentoContent() {
           </TesseramentoCard>
           <TesseramentoCard
             title="TESSERAMENTO PREMIUM"
-            price={"40 €"}
+            price={`${TESSERAMENTO_PREMIUM_PRICE} €`}
             classNames="bg-green-100 border-green-500"
             subTitle="SCI SICURO"
             icon={<FaCrown className="ml-2 inline" />}
           >
             <>
               <p className="mt-1 text-base leading-7 text-slate-700">
-                Per la stagione invernale 2025/2026 il costo è di 40€
-                comprensivo di iscrizione allo Sci Club e di Assicurazione
+                Per la stagione invernale {CURRENT_SEASON} il costo è di{" "}
+                {TESSERAMENTO_PREMIUM_PRICE}€ comprensivo di iscrizione allo
+                Sci Club e di Assicurazione
                 obbligatoria. L’iscrizione può essere effettuata direttamente in
                 sede o tramite il link presente in questa pagina.
               </p>
@@ -127,7 +135,7 @@ export default function TesseramentoContent() {
                 <p className="mt-1 text-base leading-7 text-slate-700">
                   L’Assicurazione Sci Sicuro è stagionale .<br />
                   La polizza è valida dalle ore 24.00 del giorno di attivazione
-                  e cessa alle ore 24.00 del 31/08/2026.
+                  e cessa alle ore 24.00 del {TESSERAMENTO_POLICY_EXPIRY}.
                 </p>
                 <h2 className="mt-2 text-lg font-medium text-slate-900">
                   Validità territoriale:
