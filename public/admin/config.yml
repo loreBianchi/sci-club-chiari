@@ -2,7 +2,7 @@ backend:
   name: github
   repo: loreBianchi/sci-club-chiari
   branch: dev # TODO: cambiare in "main" prima/al merge della PR verso main
-  base_url: https://sci-club-chiari-git-dev-lorebianchis-projects.vercel.app
+  base_url: https://sci-club-chiari.vercel.app
   auth_endpoint: api/auth
 
 media_folder: "public/assets/attivita"
