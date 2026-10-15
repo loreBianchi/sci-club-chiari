@@ -11,7 +11,7 @@ export default function TesseramentoContent() {
           TESSERA SCI CLUB CHIARI ASD
         </p>
         <p className="mt-1 text-base leading-7 text-slate-700">
-          Per sottoscrivere la tessera segui le seguenti istruzioni:
+          Per sottoscrivere la <b>tessera premium</b> segui le seguenti istruzioni:
         </p>
         <ul className="list-disc text-base leading-7 text-slate-700 list-inside">
           <li>
@@ -24,8 +24,12 @@ export default function TesseramentoContent() {
             PER IL PAGAMENTO: E SARAI TESSERATO!
           </li>
         </ul>
+        <p className="mt-2 text-base leading-7 text-slate-700 bg-green-400">
+          <b>È possibile sottoscrivere la tessera base unicamente in sede, non è possibile farlo online.</b>
+        </p>
+      
 
-        <p className="mt-1 text-base leading-7 text-slate-500">
+        {/* <p className="mt-1 text-base leading-7 text-slate-500">
           LINK TESSERAMENTO:{" "}
           <a
             href="https://www.wespoort.it/modulo-iscrizione-societa?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98"
@@ -34,11 +38,11 @@ export default function TesseramentoContent() {
           >
             Modulo iscrizione
           </a>
-        </p>
+        </p> */}
       </div>
       <div className="mt-10">
         <p className="mt-1 text-xl leading-7 text-slate-700 mb-8 text-center">
-          Per la stagione 2025/26 abbiamo previsto due possibilità di
+          Per la stagione 2026/27 abbiamo previsto due possibilità di
           tesseramento.
         </p>
         <div className="space-y-8 lg:grid lg:grid-cols-2 sm:gap-4 xl:gap-10 lg:space-y-0">
@@ -50,10 +54,10 @@ export default function TesseramentoContent() {
           >
             <>
               <p className="mt-1 text-base leading-7 text-slate-700">
-                Per la stagione invernale 2025/2026 il costo è di 20€
+                Per la stagione invernale 2026/2027 il costo è di 20€
                 comprensivo di iscrizione allo Sci Club e di Assicurazione
-                obbligatoria. L’iscrizione può essere effettuata direttamente in
-                sede o tramite il link presente in questa pagina.
+                obbligatoria. L’iscrizione può essere effettuata unicamente in
+                sede per questa tipologia di tesserramento.
               </p>
               <h2 className="my-4 text-lg font-medium text-slate-900">
                 Cosa viene assicurato:
@@ -68,7 +72,7 @@ export default function TesseramentoContent() {
                   </li>
                   <li>Garanzie speciali - Art. 18 Punto h</li>
                   <li>
-                    Responsabilità Civile Terzi (Massimali 100.000,00 € -{" "}
+                    Responsabilità Civile Terzi (Massimali 1.000.000,00 € -{" "}
                     <b>franchigia 500,00 €</b>)
                   </li>
                 </ul>
@@ -95,7 +99,7 @@ export default function TesseramentoContent() {
           >
             <>
               <p className="mt-1 text-base leading-7 text-slate-700">
-                Per la stagione invernale 2025/2026 il costo è di 40€
+                Per la stagione invernale 2026/2027 il costo è di 40€
                 comprensivo di iscrizione allo Sci Club e di Assicurazione
                 obbligatoria. L’iscrizione può essere effettuata direttamente in
                 sede o tramite il link presente in questa pagina.
