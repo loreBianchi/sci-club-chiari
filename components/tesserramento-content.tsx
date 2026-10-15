@@ -1,3 +1,4 @@
+import { IS_SEASON_OPEN } from "../lib/constants";
 import TesseramentoCard from "./tesseramento-card";
 import { FaAward, FaCrown } from "react-icons/fa";
 
@@ -29,7 +30,8 @@ export default function TesseramentoContent() {
         </p>
       
 
-        {/* <p className="mt-1 text-base leading-7 text-slate-500">
+         {IS_SEASON_OPEN && (
+           <p className="mt-1 text-base leading-7 text-slate-500">
           LINK TESSERAMENTO:{" "}
           <a
             href="https://www.wespoort.it/modulo-iscrizione-societa?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98"
@@ -38,7 +40,8 @@ export default function TesseramentoContent() {
           >
             Modulo iscrizione
           </a>
-        </p> */}
+        </p>
+         )}
       </div>
       <div className="mt-10">
         <p className="mt-1 text-xl leading-7 text-slate-700 mb-8 text-center">
