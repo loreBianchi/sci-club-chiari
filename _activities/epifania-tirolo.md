@@ -22,7 +22,7 @@ La quota di iscrizione è di 299€ e comprende:
 Pullman a/r e per trasferimenti in loco per raggiungere le località sciistiche;
 Albergo in trattamento di mezza pensione in camera doppia/tripla c/o  Les Chalets di Hotel Brides le Bains (F).
 
-[Les Chalets]( http://www.hotel-leschalets.fr)
+[Les Chalets](https://www.brideslesbains.com/)
 
 L’Hotel dispone di camere con servizi, asciugacapelli, telefono, TV SAT e cassaforte – ascensore – bar – soggiorno con camino – centro salute con sauna, bagno turco, idromassaggio, solarium e sala fitness
 
