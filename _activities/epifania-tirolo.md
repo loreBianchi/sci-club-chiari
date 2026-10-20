@@ -1,6 +1,6 @@
 ---
 title: 'LES TROIS VALLEES - WEEKEND NUOVO ANNO'
-excerpt: '3-4-5 Gennaio 2027 Weekend in F (AT)'
+excerpt: '3-4-5 Gennaio 2027 Weekend in Francia'
 coverImage: '/assets/attivita/cover-7.jpg'
 date: '2027-01-05T05:35:07.322Z'
 ogImage:
