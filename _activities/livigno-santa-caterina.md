@@ -1,6 +1,6 @@
 ---
 title: 'LIVIGNO - SANTA CATERINA'
-excerpt: "6 - 7 Marzo 2027 Weekend a LIVIGNO - SANTA CATERINA"
+excerpt: "6-7 Marzo 2027 Weekend a LIVIGNO - SANTA CATERINA"
 coverImage: '/assets/attivita/cover-4.jpg'
 date: '2027-03-6T05:35:07.322Z'
 ogImage:
