@@ -17,7 +17,7 @@ USCITA RISERVATA AI TESSERATI
 L'ISCRIZIONE SI RITIENE VALIDA AL SALDO DELLA QUOTA
 
 
-La quota di iscrizione è di 219€ e comprende:
+La quota di iscrizione è di 229€ e comprende:
 Pullman a/r e per trasferimenti in loco per raggiungere le località sciistiche;
 Albergo in trattamento di mezza pensione in camera doppia/tripla c/o Hotel Beau Sejour ad Arvier.
 
