@@ -1,16 +1,16 @@
 ---
-title: 'LAAX - FLIMS'
-excerpt: "28 Febbraio - 1 Marzo 2026 Weekend a Laax-Flims (SUI)"
+title: 'LIVIGNO - SANTA CATERINA'
+excerpt: "6 - 7 Marzo 2027 Weekend a LIVIGNO - SANTA CATERINA"
 coverImage: '/assets/attivita/cover-4.jpg'
-date: '2026-03-11T05:35:07.322Z'
+date: '2027-03-6T05:35:07.322Z'
 ogImage:
   url: '/assets/attivita/cover-4.jpg'
 bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=a495d189-dc5b-4cfc-8b20-f5a1d1f1c516&noback=true'  
 ---
 
-28 Febbraio - 1 Marzo 2026 weekend a Laax-Flims
+6 - 7 Marzo 2027 weekend a LIVIGNO - SANTA CATERINA
 
-## NEW! NEW! NEW!
+## OLIMPIC FEELINGS!!!
 
 USCITA RISERVATA AI TESSERATI
 
@@ -18,16 +18,19 @@ L'ISCRIZIONE SI RITIENE VALIDA AL SALDO DELLA QUOTA
 
 La quota di iscrizione è di 169€ e comprende:
 Pullman a/r e per trasferimenti in loco per raggiungere le località sciistiche;
-Albergo in trattamento di mezza pensione in camera doppia/tripla c/o Hotel Lindenhof Churwalden.
+Albergo in trattamento di mezza pensione in camera doppia/tripla c/o Hotel Genzianella di Santa Caterina affacciato direttamente sulla pista Deborah Compagnoni di Santa Caterina, a pochi metri dalla partenza degli impianti.
 
-Skipass superscontati!!!!
+[HOTEL GENZIANELLA](https://www.hotelgenzianella.com/)
 
-[LAAX SKI MAP](https://www.skiresort.it/comprensorio-sciistico/laaxflimsfalera/mappa-piste/)
+Alcune info sui comprensori di Livigno e Santa Caterina
 
-[Hotel Lindenhof Churwalden](https://www.lindenhofchurwalden.ch/)
+[LIVIGNO](https://www.livigno.eu/piste)
+
+[SANTA CATERINA](https://www.santacaterinaimpianti.it/)
+
 
 I Minorenni possono partecipare unicamente accompagnati da un maggiorenne che ne assume totale
-responsabilità. Iscrizioni aperte dal 7 Novembre 2025.
+responsabilità. Iscrizioni aperte dal xxxxx Novembre 2026.
  
 Le iscrizioni sono ritenute valide al saldo della quota gita.
 
@@ -42,5 +45,5 @@ Informazioni 3663005802
 - La quota comprende il viaggio in pullman GT ed il soggiorno, con sistemazione in camera doppia/tripla, a mezza pensione (cena, pernottamento e prima colazione)  
 - La quota non comprende le bevande, gli ski-pass, gli extra di carattere personale e quanto non espressamente specificato.  
 - In tutti i week-end organizzati dallo Sci Club Chiari è offerta ai Tesserati l’opportunità di acquistare gli ski-pass ai vantaggiosi prezzi riservati ai gruppi
-- Le iscrizioni ai week-end della Stagione Invernale 2025/2026 si possono effettuare in sede a partire da venerdì 7 Novembre 2025 e successivamente tutti i giovedì oppure tramite apposito link presente in questa pagina.
+- Le iscrizioni ai week-end della Stagione Invernale 2026/2027 si possono effettuare in sede a partire da xxx Novembre 2026 e successivamente tutti i giovedì oppure tramite apposito link presente in questa pagina.
 - L’iscrizione viene accettata esclusivamente previo il pagamento dell’intera quota prevista per il week-end; per politiche interne non vengono accettate prenotazioni e/o caparre
