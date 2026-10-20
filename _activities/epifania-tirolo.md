@@ -24,7 +24,8 @@ Albergo in trattamento di mezza pensione in camera doppia/tripla c/o  Les Chalet
 
 [Les Chalets](https://www.brideslesbains.com/)
 
-L’Hotel dispone di camere con servizi, asciugacapelli, telefono, TV SAT e cassaforte – ascensore – bar – soggiorno con camino – centro salute con sauna, bagno turco, idromassaggio, solarium e sala fitness
+L’Hotel dispone di camere con servizi, asciugacapelli, telefono, TV SAT e cassaforte – ascensore – bar – soggiorno con camino – centro salute con sauna, bagno turco, idromassaggio, solarium e sala fitness.
+L'utilizzo del centro SPA è a pagamento.
 
 Di seguito alcune info in merito al comprensorio
 
