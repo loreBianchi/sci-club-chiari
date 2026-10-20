@@ -24,7 +24,7 @@ Tre domeniche sulla neve per approcciarsi alle nobili arti dello Sci e dello Sno
 
 [SCUOLA SCI APRICA](https://www.apricasci.com)
 
-La quota di iscrizione per i nati negli anni 2011-2020 è di 240€ (200€ nel caso di utilizzo di mezzi propri).
+La quota di iscrizione per i nati negli anni dal 2011 al 2020 compreso è di 240€ (200€ nel caso di utilizzo di mezzi propri).
 
 La quota di iscrizione per i nati prima del 2011 (2010 e precedenti) è di 280€ (240€ nel caso di utilizzo di mezzi propri).
 
