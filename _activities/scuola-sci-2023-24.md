@@ -37,7 +37,7 @@ Informazioni 3663005802
 ## Informazioni utili
 - Al fine di garantire una migliore e completa copertura assicurativa ai partecipanti del corso di sci è necessario che questi sottoscrivano il tesseramento Premium.
 - Le quote sono da intendersi per persona e sono riservate ai Tesserai dello Sci Club Chiari.  
-- La partenza è fissata per le 7.00 (ritrovo alle 6.45) dal parcheggio di Via LANCINI di Chiari (parcheggio dell’Istituto Comprensivo Mellini).  
+- La partenza è fissata per le 7.00 (ritrovo alle 6.40) dal parcheggio di Via LANCINI di Chiari (parcheggio dell’Istituto Comprensivo Mellini).  
 - La quota comprende il viaggio in pullman GT ed il soggiorno, 3 skipass e 12 ore di lezione totali (4 ore per ogni domenica dalle 10:00 alle 12:00 e dalle 13:00 alle 15:00 per lo sci, mentre per lo snowboard l'orario è dalle 10.00 alle 13.00 e dalle 14.00 alle 15.00).
 - La quota non comprende gli extra di carattere personale e quanto non espressamente specificato.  
 - Le iscrizioni al corso di sci-snowboard della Stagione Invernale 2026/2027 si possono effettuare in sede a partire da XXX Novembre 2026 e successivamente in sede ogni giovedì oppure tramite il link che trovate in questa pagina.
