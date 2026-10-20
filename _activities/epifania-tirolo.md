@@ -10,7 +10,8 @@ bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5
 
 3-4-5 Gennaio 2027, soggiorno a BRIDES LES BAINS in hotel 3 stelle IN PROSSIMITà DEGLI IMPIANTI.
 
-## Les Trois ValléeS!!! Il comprensorio più grande del MONDOOOO!!!!
+## Les Trois ValléeS!!! 
+## Il comprensorio più grande del MONDOOOO!!!!
 
 
 USCITA RISERVATA AI TESSERATI
