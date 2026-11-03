@@ -31,6 +31,8 @@ La quota di iscrizione per i nati prima del 2011 (2010 e precedenti) è di 280�
  
 Le iscrizioni sono ritenute valide al saldo della quota.
 
+Le iscrizioni sono aperte dal 13 Novembre 2026.
+
 
 Informazioni 3663005802
 
@@ -40,6 +42,6 @@ Informazioni 3663005802
 - La partenza è fissata per le 7.00 (ritrovo alle 6.40) dal parcheggio di Via LANCINI di Chiari (parcheggio dell’Istituto Comprensivo Mellini).  
 - La quota comprende il viaggio in pullman GT ed il soggiorno, 3 skipass e 12 ore di lezione totali (4 ore per ogni domenica dalle 10:00 alle 12:00 e dalle 13:00 alle 15:00 per lo sci, mentre per lo snowboard l'orario è dalle 10.00 alle 13.00 e dalle 14.00 alle 15.00).
 - La quota non comprende gli extra di carattere personale e quanto non espressamente specificato.  
-- Le iscrizioni al corso di sci-snowboard della Stagione Invernale 2026/2027 si possono effettuare in sede a partire da XXX Novembre 2026 e successivamente in sede ogni giovedì oppure tramite il link che trovate in questa pagina.
+- Le iscrizioni al corso di sci-snowboard della Stagione Invernale 2026/2027 si possono effettuare in sede a partire dal 13 Novembre 2026 e successivamente in sede ogni giovedì oppure tramite il link che trovate in questa pagina.
 - L’iscrizione viene accettata esclusivamente previo il pagamento dell’intera quota prevista per il corso; per politiche interne non vengono accettate prenotazioni e/o caparre.
 - Possibilità noleggio attrezzatura con attività convenzionata Sci Club Chiari.
