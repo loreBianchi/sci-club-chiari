@@ -5,7 +5,7 @@ coverImage: '/assets/attivita/cover-7.jpg'
 date: '2027-01-05T05:35:07.322Z'
 ogImage:
   url: '/assets/attivita/cover-7.jpg'
-bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=a6c0cdfe-a431-40f2-ab9c-e8888e916d52&noback=true'
+bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=038dfa6b-4996-46ac-8315-c43ad873c664&noback=true'
 ---
 
 3-4-5 Gennaio 2027, soggiorno a BRIDES LES BAINS in hotel 3 stelle IN PROSSIMITà DEGLI IMPIANTI.
