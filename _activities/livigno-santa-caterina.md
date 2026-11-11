@@ -5,7 +5,7 @@ coverImage: '/assets/attivita/cover-4.jpg'
 date: '2027-03-6T05:35:07.322Z'
 ogImage:
   url: '/assets/attivita/cover-4.jpg'
-bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=a495d189-dc5b-4cfc-8b20-f5a1d1f1c516&noback=true'  
+bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=78aeb5f2-af90-4120-8830-760b0f21a0dd&noback=true'  
 ---
 
 6 - 7 Marzo 2027 weekend a LIVIGNO - SANTA CATERINA
