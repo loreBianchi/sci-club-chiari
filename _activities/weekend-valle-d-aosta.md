@@ -5,7 +5,7 @@ coverImage: '/assets/attivita/cover-2.jpg'
 date: '2027-02-13T05:35:07.322Z'
 ogImage:
   url: '/assets/attivita/cover-2.jpg'
-bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=96984de7-3fa5-4524-840b-9222acfb0a76&noback=true'
+bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=39bafdf5-abd6-424d-9c18-4fecacef7821&noback=true'
 ---
 
 13-14-15 Febbraio 2027 Week-end sulle nevi della Valle d'Aosta
