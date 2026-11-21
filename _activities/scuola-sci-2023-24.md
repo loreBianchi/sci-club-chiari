@@ -8,7 +8,7 @@ ogImage:
 bannerLink: 'https://www.wespoort.it/modulo-iscrizione-evento?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98&event=1f4029db-2a62-4194-8687-5b19c72e164a&noback=true'
 ---
 
-17-23-30 Gennaio 2027, Corso Sci-Snowboard al Passo dell'Aprica.
+17-24-31 Gennaio 2027, Corso Sci-Snowboard al Passo dell'Aprica.
 
 ## PER CHI VUOLE IMPARARE LA NOBILE ARTE DELLO SCI o DELLO SNOWBOARD:)
 
