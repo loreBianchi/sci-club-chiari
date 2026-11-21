@@ -32,7 +32,7 @@ export default function TesseramentoContent() {
 
          {IS_SEASON_OPEN && (
            <p className="mt-1 text-base leading-7 text-slate-500">
-          LINK TESSERAMENTO:{" "}
+          LINK TESSERAMENTO PREMIUM:{" "}
           <a
             href="https://www.wespoort.it/modulo-iscrizione-societa?society=32ad6a1a-5c52-4665-bf58-5623afdcfb98"
             className="text-blue-600 hover:underline"
